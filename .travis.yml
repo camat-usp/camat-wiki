@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-- 2.2.0
+- 2.2.7
 install:
 - bundle config --local path .bundle/gems
 - bundle config --local without coverage docs
