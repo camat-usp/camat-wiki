@@ -1,0 +1,956 @@
+= Atividades Online Durante a Quarentena
+CAMat <camat.usp@gmail.com>
+:page-permalink: /atividades-online-durante-a-quarentena
+:toc: macro
+:page-title: Atividades Online Durante a Quarentena
+:showtitle:
+:toc-title: Conteúdos
+:note-caption: Nota
+:icons: font
+:menu: null
+:hide-uri-scheme:
+
+Com a determinação da CRUESP, que suspendeu temporariamente as atividades 
+escolares presenciais a partir de terça-feira (17/03), passaram a ser adotadas 
+alternativas online para dar continuidade às disciplinas.
+
+Sabendo que estas medidas foram tomadas às pressas e visando auxiliar as(os) 
+estudantes, organizamos este site reunindo informações de diversas disciplinas, 
+facilitando o acesso, visto que estas não estão todas numa plataforma comum.
+
+As informações foram obtidas através de contato com professores via e-mail e 
+resposta do formulário divulgado pelo CAMat à comunidade estudantil do IME. 
+Por isso, pedimos compreensão de todas(os) caso não encontrem neste documento 
+alguma disciplina ou informação específica. Caso queira colaborar com conteúdo, 
+https://qrgo.page.link/ENFtn[acesse o formulário].
+
+O CAMat reforça que o e-mail institucional é o canal de comunicação comumente 
+utilizado pelos docentes e, portanto, em momento como este, mais do que antes, 
+se faz necessário o uso; cheque diariamente a sua caixa de entrada!
+
+[NOTE]
+Dúvidas? Leia o 
+https://camat-usp.github.io/Atividades-Online-Durante-a-Quarentena/faq.html[F.A.Q.]?
+
+[NOTE]
+Você não tem suporte técnico adequado para acompanhar as atividades?
+https://qrgo.page.link/DRMk5[Comunique o CAMat!]
+
+toc::[]
+
+== Departamento de Matemática
+
+=== MAT0105 - Geometria Analítica (Turma 42)
+
+A professora Ana Paula Jahn dará continuidade à disciplina através do 
+e-disciplinas.
+
+[horizontal]
+Contato da Professora:: anajahn@ime.usp.br
+
+=== MAT0105 - Geometria Analítica (Turma 47 e 48)
+
+O professor Vyacheslav Futorny prosseguirá com a disciplina via Google Meet.
+
+De acordo com informações do 
+https://www.ime.usp.br/~futorny/teaching.html[site do professor], as aulas 
+online terão início quarta-feira (25/03),às 19:20. O link e código da sala no 
+Google Meet será informado com 20 minutos de antecedência.
+
+[horizontal]
+Contato do Professor:: futorny@ime.usp.br
+
+=== MAT0105 - Geometria Analítica (Turma 22 - Instituto de Física)
+
+A professora Nataliia Goloshchapova prosseguirá com a disciplina da seguinte 
+forma:
+
+. Principalmente, irá postar, duas vezes por semana, arquivos .pdf das aulas na 
+https://www.ime.usp.br/~nataliia/ensino_2020_1/[página do curso].
+
+. Há um https://www.facebook.com/groups/526537654648603/[grupo da disciplina] 
+no Facebook em que os(as) estudantes podem tirar dúvidas, com a professora ou 
+com monitor da disciplina.
+
+. Caso for necessário, fará uso do Google Meet.
+
+[horizontal]
+Contato da Professora:: nataliia@ime.usp.br
+
+=== MAT0111 - Cálculo Diferencial e Integral I (Turma 46)
+
+A professora Lucia Junqueira disponibilizará material por escrito (texto e 
+exercícios) para as(os) estudantes no e-disciplinas e, no dia 25/03, terá a 
+primeira tentativa de conversa com estudantes via Google Meet. Entretanto, 
+reforça que não controlará presença e nem dará atividades que valem nota. A 
+professora espera ter possibilidade de repor as aulas presencialmente.
+
+[horizontal]
+Contato da Professora:: lucia@ime.usp.br
+
+=== MAT0112 - Vetores e Geometria (Turmas 21 e 46)
+
+O professor Ivan Struchiner tem a intenção de repor todas as aulas de 
+forma presencial assim que possível "`a não ser que a administração central da 
+Universidade impeça essa possibilidade`", além de realizar algumas atividades 
+online. 
+
+O professor afirma que está considerando as sequintes alternativas e que está
+aberto a sugestões:
+
+. Reuniões via Google Meet. As reuniões serão gravadas e disponibilizadas para 
+  os alunos.
+
+. Escrever textos, notas de aulas, resolução de exercícios, etc. Esses textos 
+  serão postados na 
+  https://www.ime.usp.br/~ivanstru/Site/MAT-112-2020_files/COVID-19/[homepage do professor].
+
+. Criar um fórum de discussão.
+
+. Responder emails, com ajuda do monitor, de dúvidas.
+
+[horizontal]
+Contato do Professor:: ivanstru@gmail.com
+
+=== MAT0112 - Vetores e Geometria (Turma 43)
+
+A professora Christina Brech pretende repor as aulas presencialmente ao final 
+da quarentena e manter contato virtual com os alunos durante o período da quarentena. 
+
+Na plataforma e-disciplinas, serão disponibilizados alguns materiais - vídeos, 
+textos, exercícios - relacionados ao conteúdo visto nas aulas presenciais, além 
+de fóruns para troca de ideias, sugestões e dúvidas. Uma vez por semana, nas terças às 10h, 
+encontrará os estudantes por meio do Google Meet, com link disponibilizado no e-disciplinas. 
+
+Ressalta que nenhuma das atividades oferecidas durante a quarentena será utilizada 
+como forma de avaliação ou controle de frequência. Ao contrário, o objetivo é 
+auxiliar os alunos, que puderem e quiserem, a manterem uma rotina de estudos, 
+contato com a matéria e com seus colegas.
+
+[horizontal]
+Contato da Professora:: brech@ime.usp.br 
+
+=== MAT0120 - Álgebra I para Licenciatura (Turmas 42 e 48)
+
+O professor Eduardo do Nascimento Marcos dará continuidade ao calendário
+letivo, da seguinte forma:
+
+. Será usada a plataforma ZOOM (zoom.us) às aulas virtuais. Elas acontecerão 
+no período normal: 
+
+.. Aulas do diurno (T42): terças, às 10h, e quintas, às 8h.
+
+.. Aulas do noturno (T48): terças e quintas, das 19h às 21h.
+
+. Para os informes, continuará sendo usado e-disciplinas, vide 
+https://uspdigital.usp.br/jupiterweb/obterTurma?sgldis=MAT0120[página da disciplina],
+
+[horizontal]
+Contato do Professor:: enmarcos@ime.usp.br
+
+=== MAT0120 - Álgebra I para Licenciatura (Turma 47)
+
+O professor Kostiantyn Iusenko, respeitando uma enquete (anônima) realizada 
+entre os(as) estudantes da disciplina, seguirá com a disciplina da
+seguinte forma:
+
+. A cada semana será postado, no e-disciplinas e no 
+https://www.ime.usp.br/~iusenko/ensino_2020_1/[site do professor], dois 
+arquivos PDF com as anotações das aulas. 
+
+. Às terças e sextas (entre 19:20-21:00), o professor estará disponível num 
+chat, disponível no e-disciplinas, para tirar dúvidas sobre o conteúdo e, caso 
+precisar, para resolver alguns exercícios.
+
+. O monitor da disciplina irá agendar monitorias online para resolução dos 
+exercícios. 
+
+O professor ressalta que, a partir de meados de abril, irá examinar o 
+funcionamento do sistema adotado, eventualmente podendo se agregar outras 
+formas de comunicação.
+
+No site e no e-disciplinas, já tem disponível 2 arquivos PDF. O primeiro chat 
+está agendado para dia 24/03, às 19:20.
+
+[horizontal]
+Contato do Professor:: iusenko@ime.usp.br
+
+=== MAT0130 - Equações Diferenciais Ordinarias e Aplicações
+
+O professor Antônio Luiz Pereira prossegue com as atividades que são possíveis, 
+utilizando as seguintes plataformas:
+
+. e-disciplinas para comunicação e disponibilização de material.
+
+. Zoom para as aulas em si (vídeo-conferência).
+
+O professor reitera "`entendo que será necessário um período de tempo 
+difícil de avaliar agora para retomar e completar a disciplina presencialmente, 
+não pretendo transformar simplesmente em disciplina a distância`".
+
+[horizontal]
+Contato do Professor:: alpereir@ime.usp.br
+
+=== MAT0164 - Números Inteiros: Uma Introdução à Matemática
+
+A professora Leila Vasconcellos pretende disponibilizar atividades online no 
+e-disciplinas, mas não prosseguirá com a matéria como ensino à distância.
+
+[horizontal]
+Contato da Professora:: leila@ime.usp.br
+
+=== MAT0205 - Cálculo Diferencial e Integral III
+
+O professor Salvador Zanata prosseguirá com a disciplina via Google Hangout 
+(apenas chamada de áudio). Segue o link do chat: 
+https://meet.google.com/ngw-avbe-asi
+
+[horizontal]
+Contato do Professor:: sazanata@ime.usp.br
+
+[[MAT0206]]
+=== MAT0206 - Análise Real
+
+O professor Humberto Carrión prosseguirá com a disciplina de forma online. As 
+vídeo-aulas são disponibilizadas via Google Drive e posteriormente serão 
+postadas no youtube. Os links estão disponíveis no 
+https://analisisrealhc.blogspot.com[blog pessoal do professor] e devem ser 
+acessados por meio do e-mail.
+
+[horizontal]
+Contato do Professor:: leinad@ime.usp.br
+
+=== MAT0231 - Àlgebra II para Licenciatura
+
+A professora Leila Vasconcellos pretende disponibilizar atividades online no 
+e-disciplinas, mas não prosseguirá com a matéria conmo ensino à distância.
+
+[horizontal]
+Contato da Professora:: leila@ime.usp.br
+
+=== MAT0240 - Geometria e Desenho Geométrico II (Diurno)
+
+O professor Ricardo Bianconi prosseguirá com a disciplina disponibilizando a
+apostila do curso do https://www.ime.usp.br/mat/0240/[site da disciplina] 
+e mantendo contato via e-mail institucional.
+
+De acordo com as orientações do site, a P1 será mantida no dia 02/04 e será 
+aplicada virtualmente tendo as(os) estudantes de 10:00 às 20:00 (horário de 
+Brasília) para enviar as respostas via e-mail.
+
+[horizontal]
+Contato do Professor:: bianconi@ime.usp.br
+
+=== MAT0264 - Anéis e Corpos
+
+O professor Ivan Shestakov ainda não se pronunciou publicamente sobre essa 
+questão. Porém, a um e-mail de um aluno o indagando sobre esta questão, 
+respondeu que não ministraria as aulas de forma online.
+
+[horizontal]
+Contato do Professor:: shestak@ime.usp.br
+
+=== MAT0310 - Geometria III (Turma 42)
+
+O professor Ricardo Bianconi continuará a disciplina virtualmente. A 
+comunicação entre professor e turma ocorre via e-mail institucional e as 
+disciplinas e exercícios estão sendo disponibilizadas no 
+https://www.ime.usp.br/~mat/0310/[site da disciplina].
+
+De acordo com as orientações do site, a P1 será mantida no dia 30/03 e será 
+aplicada virtualmente tendo as(os) estudantes de 10:00 às 20:00 (horário de 
+Brasília) para enviar as respostas via e-mail.
+
+[horizontal]
+Contato do Professor:: bianconi@ime.usp.br
+
+=== MAT0317 - Topologia
+
+O professor Pierluigi Benevieri atualizará as notas de aula em seu 
+https://www.ime.usp.br/~pluigi/MAT0317.html[site], contudo reitera que os 
+conteúdos adicionados a partir da suspensão das aulas 
+serão retomados quando as aulas presenciais voltarem. A adoção de tal medida 
+visa não prejudicar aqueles sem acesso à internet, segundo o professor.
+
+[horizontal]
+Contato do Professor:: pluigi@ime.usp.br
+
+=== MAT0330 - Teoria dos Conjuntos
+
+O professor Artur Tomita optou por dar continuidade a disciplina. O material é 
+disponibilizado via e-mail institucional e a comunicação e veiculação de demais 
+informações está sendo mantida via 
+https://www.facebook.com/groups/2533542590222237/[grupo da disciplina] no 
+Facebook.
+
+[horizontal]
+Contato do Professor:: tomita@ime.usp.br
+
+[[MAT0334]]
+=== MAT0334 - Análise Funcional
+
+A professora Mary Lilian Lourenço afirma não ter a intenção de ministrar 
+aulas à distância, contudo, por meio de textos disponibilizados no e-disciplinas, 
+tem dado sequência aos assuntos cuja abordagem é possível desta forma. 
+
+Além disso, a professora afirma que pretende concluir a disciplina de forma 
+presencial, se possível, e tal medida -- .pdfs no e-disciplinas -- foi adotada 
+"`devido a falta de informação segura da PRG, se teremos ou não chance de 
+ministar de forma presencial`" após a volta da normalidade.
+
+[horizontal]
+Contato da Professora:: mllouren@ime.usp.br
+
+=== MAT0359 - Lógica
+
+O professor Rogério Fajardo dará continuidade à disciplina, apenas na parte de 
+Lógica Proposicional, por meio do Google Sala de Aula. O nome da sala é 
+_Lógica - 2019_ e o código de acesso está disponível no 
+https://www.ime.usp.br/~fajardo/MAT359/[site do professor].
+
+Além disso, uma das três provas será substituida por uma lista de exercícios e, 
+fora o Google Sala de Aula, a comunicação está sendo feita via e-mail 
+institucional.
+
+[horizontal]
+Contato do Professor:: fajardo@ime.usp.br
+
+=== MAT0450 - Seminário de Resolução de Problemas
+
+O professor Antônio Pereira prossegue com as atividades que são possíveis.
+
+A comunicação com as(os) estudantes sendo feito via e-disciplinas.
+
+O professor reitera "`entendo que será necessário um período de tempo 
+difícil de avaliar agora para retomar e completar a disciplina presencialmente, 
+não pretendo transformar simplesmente em disciplina a distância`"
+
+[horizontal]
+Contato do Professor:: alpereir@ime.usp.br
+
+=== MAT1351 - Cálculo para Funções de Uma Variável Real I (Turma 42)
+
+A professora Lucília Borsari não pretende dar continuidade à disciplina 
+na modalidade a distância e aguarda um calendário de reposição presencial.
+
+A professora tem estabelecido contato com as(os) estudantes via e-mail 
+institucional visando abrir um canal em que se possa tirar dúvidas sobre a 
+matéria já ministrada.
+
+[horizontal]
+Contato da Professora:: lucilia@ime.usp.br
+
+=== MAT1351 - Cálculo para Funções de Uma Variável Real I (Turma 48)
+
+O professor Rogério Fajardo prosseguirá com a disciplina visando apenas 
+completar a parte de Pré-Cálculo da ementa, portanto sem avançar significamente 
+na matéria. Para tal, utilizará o Google Sala de Aula como ambiente 
+prioritário. 
+
+Durante este período de quarentena, o professor também pretende continuar o 
+contato com os(as) estudantes para tirar dúvidas, enviar material didático, 
+elaborar e corrigir listas. Mais informações, consulte o 
+https://www.ime.usp.br/~fajardo/MAT1351/[site do professor].
+
+[horizontal]
+Contato do Professor:: fajardo@ime.usp.br
+
+=== MAT1500 - Projetos de Estágio (Turmas 42 e 48)
+
+A professora Daniela Mariz prossegue com as atividades de maneira online
+da seguinte forma:
+
+. e-disciplinas para o envio de questionário, exercícios e para comunicação 
+  com a turma.
+
+. https://www.ime.usp.br/~danim/index.php?target=mat1500[Site da professora] 
+  para disponibilizar material (textos, exercícios) e o cronograma da 
+  disciplina.
+
+Em e-mail, a professora avisou que pretende enviar textos para leitura e 
+resenha, dando prazos estendidos para entrega visando não sobrecarregá-los.
+
+[horizontal]
+Contato da Professora:: danim@ime.usp.br
+
+=== MAT1513 - Laboratório de Matemática (Turmas 47 e 48)
+
+A professora Daniela Mariz prosseguirá com a matéria via e-disciplina. Contudo, 
+segundo a própria, com menos conteúdo e cobranças, disponibilizando material 
+somente nos dias da aula.
+
+[horizontal]
+Contato da Professora:: danim@ime.usp.br
+
+=== MAT2351 - Cálculo para Funções de Várias Variáveis I (Turmas 22 e 47)
+
+O professor David Dias optou pela reposição presencial das aulas. No entanto, o 
+professor disponibilizou mais duas listas de exercicícios no 
+https://www.ime.usp.br/~dpdias/2020/MAT2351.html[site do curso] para alunos 
+interessados em seguir o curso à distância, além de formular um roteiro de 
+estudos.
+
+O roteiro de estudos está baseado no livro _H.L. Guidorizzi, Um curso de 
+Cálculo, vol. II, Editora LTC, 2001_ e nas aulas de graduação de Cálculo II da 
+Professora Martha Salerno Monteiro que estão disponiveis no portal 
+http://eaulas.usp.br/portal/home[eaulas]:
+
+[quote,David Pires Dias]
+____
+I:: 
+====
+Curvas no plano e no espaço, áreas em coordendas polares, comprimento de
+curva. Funções duas e três variáveis reais, curvas de nível e gráficos. Limite e
+continuidade.
+
+Aulas:: 3, 4, 5, 6, 17 e 18 (exercícios 7 e 8)
+Capítulos:: 7, 8 e 9
+====
+
+II:: 
+====
+Derivadas parciais e direcionais; diferenciabilidade, regra da cadeia e
+propriedades do gradiente.
+
+Aulas:: 9, 10, 11, 12, 13 e 14 (exercícios 15 e 16).
+Capítulos:: 10, 11, 12, 13 e 14.
+====
+
+III:: 
+====
+Polinômio de Taylor, máximos e mínimos e multiplicadores de Lagrange.
+
+Aulas:: 19, 20, 21, 22, 23 (exercícios 24 e 25)
+Capítulos:: 15 e 16.
+====
+____
+
+O monitor se encontra a disposição para esclarecer dúvidas pelo e-mail 
+ricardocanale@ime.usp.br e as novas datas de prova serão apresentadas assim que 
+restauradas as atividades presenciais.
+
+[horizontal]
+Contato do Professor:: dpdias@ime.usp.br
+
+=== MAT2351 - Cálculo para Funções de Várias Variáveis I (Turma 42)
+
+Atividades suspensas até o retorno das aulas presenciais.
+
+A professora Claudia Cueva Candido está mantendo o contato, para retirar 
+dúvidas e compartilhar informações, com as(os) estudantes por meio do 
+Google Meet e https://zoom.us[Zoom].
+
+[horizontal]
+Contato da Professora:: cueva@ime.usp.br
+
+=== MAT5721 - Análise Funcional
+
+Favor ler o informe sobre a disciplina <<MAT0334>> para mais informações --
+é a mesma disciplina.
+
+=== MAT6201 - Teoria Espectral dos Operadores nos Espaços de Banach
+
+A professora Nataliia Goloshchapova dará continuidade à disciplina por meio 
+virtual. Para mais informações, acesse a 
+https://www.ime.usp.br/~nataliia/ensino_2020_1_TE/[página da disciplina] ou o 
+https://www.facebook.com/groups/234148324393372/[grupo da disciplina] no 
+Facebook.
+
+[horizontal]
+Contato da Professora:: nataliia@ime.usp.br
+
+== Departamento de Estatística
+
+=== MAE0116 - Noções de Estatística (Instituto de Biologia)
+
+O professor Fábio Machado adotou o e-disciplinas para prosseguir
+com a disciplina virtualmente, vide 
+https://edisciplinas.usp.br/course/view.php?id=75806[página da disciplina].
+
+Há informações também no 
+https://www.ime.usp.br/~fmachado/MAE116/[site do professor].
+
+[horizontal]
+Contato do Professor:: fmachado@ime.usp.br
+
+=== MAE0121 - Introdução a Probabilidade e a Estatística I
+
+O professor José Carlos Simon de Miranda afirma não ter computador ou celular 
+e que, portanto, considera a disciplina suspensa por hora.
+
+=== MAE0217 - Estatística Descritiva
+
+O professor Julio da Motta Singer optou por prosseguir com a disciplina 
+utilizando o Google Meet. A comunicação com a turma está sendo feito através 
+da https://www.ime.usp.br/~jmsinger/doku.php?id=mae0217[página da disciplina].
+
+[horizontal]
+Contato do Professor:: jmsinger@ime.usp.br
+
+=== MAE0221 - Probabilidade I
+
+O professor Fábio Machado adotou o e-disciplinas para prosseguir
+com a disciplina virtualmente, vide 
+https://edisciplinas.usp.br/course/view.php?id=75811[página da disciplina].
+
+Há informações também no 
+https://www.ime.usp.br/~fmachado/MAE221/[site do professor].
+
+[horizontal]
+Contato do Professor:: fmachado@ime.usp.br
+
+=== MAE0312 - Introdução aos Processos Estocásticos
+
+O professor Fábio Machado adotou o e-disciplinas para prosseguir
+com a disciplina virtualmente, vide 
+https://edisciplinas.usp.br/course/view.php?id=75810[página da disciplina].
+
+Há informações também no 
+https://www.ime.usp.br/~fmachado/MAE312/[site do professor].
+
+[horizontal]
+Contato do Professor:: fmachado@ime.usp.br
+
+=== MAE0314 - Análise Estatística
+
+Atividades suspensas até o retorno das aulas.
+
+=== MAE0317 - Planejamento e Pesquisa I
+
+A professora Viviana Giampaoli seguirá com a disciplina de forma online da 
+seguinte forma:
+
+. Para as aulas usará o Google Meet
+
+. O material da disciplina será disponibilizado no e-desciplinas.
+
+[horizontal]
+Contato da Professora:: vivig@ime.usp.br
+
+=== MAE0399 - Análise de Dados e Simulação
+
+A professora Márcia Branco dará prosseguimento a disciplina através de aulas 
+online via Google Meet. O material utilizado é disponibilizado via 
+e-disciplinas e a comunicação mantida via e-mail institucional.
+
+[horizontal]
+Contato da Professora:: mbranco@ime.usp.br
+
+=== MAE0512 - Biometria
+
+O professor Julio da Motta Singer proseguirá com as atividades da disciplina 
+via Google Meet.
+
+[horizontal]
+Contato do Professor:: jmsinger@ime.usp.br
+
+=== MAE1511 - Estatística para Licenciatura I (Turma 42)
+
+Atividades suspensas até o retorno das aulas presenciais.
+
+Aguardando resposta do professor Marcos Magalhães quanto ao canal a ser adotado 
+para comunicação com as(os) estudantes durante o período de quarentena.
+
+[horizontal]
+Contato do Professor:: marcos@ime.usp.br
+
+=== MAE1511 - Estatística para Licenciatura I (Turma 47)
+
+O professor José Carlos Simon de Miranda afirma não ter computador ou celular 
+e que, portanto, considera a disciplina suspensa por hora.
+
+=== MAE1514 - Estatística no Ensino Básico
+
+A professora Viviana Giampaoli seguirá com a disciplina de forma online da 
+seguinte forma:
+
+. Para as aulas usará o Google Meet
+
+. O material da disciplina será disponibilizado no e-desciplinas.
+
+[horizontal]
+Contato da Professora:: vivig@ime.usp.br
+
+=== MAE5702 - Probabilidade e Inferência Estatística I
+
+O professor Alexandre Patriota prosseguirá com a disciplina por meio do 
+Google Meet. As aulas serão gravadas e depois disponibilizadas via Google Drive 
+a ser acessado mediante e-mail institucional. 
+
+O link de acesso a sala no Google Meet e demais materiais pode ser encontrado 
+na https://www.ime.usp.br/~patriota/MAE5702.html[página do curso].
+
+[horizontal]
+Contato do Professor:: patriota@ime.usp.br
+
+== Departamento de Ciência da Computação
+
+=== CCM0128 - Computação II
+
+O professor Yoshiharu Kohayakawa dará prosseguimento com as atividades a partir de 
+encontros virtuais, a serem realizados no mesmo horário que eram as aulas presenciais. 
+As ferramentas utilizadas serão: link:https://meet.google.com/ygx-zmyh-mgm[Google Meet], e-Disciplinas 
+e e-aulas.
+
+[horizontal]
+Contato do professor:: yoshi@ime.usp.br
+
+=== MAC0101 - Integração na Universidade e na Profissão
+
+O professor André Fujita prosseguirá com a disciplina através de encontros virtuais no 
+Google Meet no mesmo horário que eram as aulas presenciais. O link da sala virtual será divulgado 
+na página do curso no e-disciplinas.
+
+[horizontal]
+Contato do Professor:: fujita@ime.usp.br
+
+=== MAC0102 - Caminhos no Bacharelado em Ciência da Computação
+
+O professor Flavio Soares Correa dará continuidade a disciplina por meio de 
+encontros virtuais no Google Meet no mesmo horário que eram as aulas presenciais. 
+O link da sala virtual será divulgado na página do curso no e-disciplinas.
+
+[horizontal]
+Contato do Professor:: fcs@ime.usp.br
+
+=== MAC0105 - Fundamentos de Matemática para a Computação
+
+O  professor Sinai Robins prosseguirá com a disciplina através de encontros virtuais no 
+Google Meet no mesmo horário que eram as aulas presenciais. O link da sala virtual será divulgado 
+na página do curso no e-disciplinas.
+
+[horizontal]
+Contato do Professor:: srobins@ime.usp.br
+
+=== MAC0110 - Introdução à Computação (Turma 42)
+
+O professor Denis Deratani Mauá dará continuidade a disciplina por meio de 
+vídeo-aulas - usando o Google Meet. O link para sala virtual, bem como 
+exercícios, serão disponibilizados no e-Disciplinas.
+
+[horizontal]
+Contato do Professor:: ddm@ime.usp.br
+
+=== MAC0110 - Introdução à Computação (Turmas 41 e 51)
+
+Os professores Hitoshi e Coelho darão continuidade à disciplina da seguinte 
+forma:
+
+. Aulas online via link:https://meet.google.com/znx-sncn-wvm[Google Meet], no horário normal de aula.
+
+. As atividades no e-disciplinas seguem normalmente. 
+
+. As provinhas semanais serão passadas para uma plataforma virtual.
+
+[horizontal]
+Contato do Professor Hitoshi:: hitoshi@ime.usp.br
+
+[horizontal]
+Contato do Professor Coelho:: coelho@ime.usp.br
+
+=== MAC0110 - Introdução à Computação (Turma 54)
+
+O  professor Marcilio Sanches prosseguirá com a disciplina através de encontros virtuais no 
+Zoom a ocorrerem no mesmo horário que eram as aulas presenciais. O link da sala virtual será divulgado 
+na página da disciplina no PACA.
+
+[horizontal]
+Contato do Professor:: mms@ime.usp.br
+
+=== MAC0113 - Introdução à Computação para Ciências Humanas (Turmas 01 e 02 - FEA)
+
+A professora Ana Cristina prosseguirá com a disciplina através de vídeo-aulas 
+(transmissão assíncrona). Utilizará o e-Disciplinas para se comunicar com as(os) 
+estudantes, bem como divulgar a ferramenta adotada para encontros online.
+
+[horizontal]
+Contato da Professora:: acvm@ime.usp.br
+
+=== MAC0113 - Introdução à Computação para Ciências Humanas (Turmas 21 e 22 - FEA)
+
+O professor Kunio Okuda disponibilizará conteúdo online em página web disponibilizada aos 
+matriculados na disciplina. Além disso, encontros onlines serão realizados em mesmo horário que 
+eram as aulas presenciais, a ferramenta adotada para tal será divulgada no e-Disciplinas.
+
+[horizontal]
+Contato do Professor:: kunio@ime.usp.br
+
+=== MAC0115 - Introdução à Computação para Ciências Exatas e Tecnologia
+
+O professor Roberto Marcondes prosseguirá com a disciplina através de encontros virtuais no 
+Zoom a ocorrerem no mesmo horário que eram as aulas presenciais. O link da sala virtual será divulgado 
+na página da disciplina no e-Disciplinas.
+
+[horizontal]
+Contato do Professor:: cesar@ime.usp.br
+
+=== MAC0218 - Técnicas de Programação II
+
+A disciplina seguirá com aulas online, usando o Google Meet e com material 
+adicional no e-disciplinas. O link para cada aula é disponibilizado dentro 
+do próprio e-disciplinas.
+
+As aulas online serão gravadas e disponibilizadas para toda a classe.
+
+[horizontal]
+Contato do Professor:: gubi@ime.usp.br
+
+=== MAC0219 - Programação Concorrente e Paralela
+
+Adotando o e-disciplinas e Google Meet como alternativa online, o professor
+Alfredo Goldman dará continuidade às aulas.
+
+[horizontal]
+Contato do Professor:: gold@ime.usp.br
+
+=== MAC0317 - Introdução ao Processamento de Sinais Digitais
+
+O professor Marcelo Queiroz dará continuidade às atividades de forma online
+via e-disciplina. Segundo o próprio, tal medida visa respeitar uma enquete 
+(anônima) na qual 100% das(os) participantes manifestaram concordância com esse 
+modelo, "`vale ressaltar que esse total corresponde a alunos que participaram 
+de alguma atividade presencial nas 2 primeiras semanas`".
+
+Consulte a 
+https://edisciplinas.usp.br/course/view.php?id=74173[página da disciplina], as 
+aulas online são integradas ao e-disciplinas, acessíveis por um link interno.
+
+[horizontal]
+Contato do Professor:: mqz@ime.usp.br
+
+=== MAC0321 - Laboratório de Programação Orientada a Objetos
+
+O professor Fábio Kon continuará ministrando o curso de forma online, da 
+seguinte forma: 
+
+. O material didático está disponível na 
+https://edisciplinas.usp.br/course/view.php?id=74433[página do curso] no 
+e-disciplinas.
+
+. As aulas estarão disponíveis online no e-disciplinas e em 
+https://www.youtube.com/playlist?list=PLTeQ2u81sjqfsFNWrUCIoqJZBSJrai8M7.
+
+. Haverá exercícios para entrega via e-disciplinas e tiração de dúvidas pelo 
+Fórum e, se desejável, Google Meet.
+
+[horizontal]
+Contato do Professor:: kon@ime.usp.br
+
+=== MAC0323 - Algoritmos e Estruturas de Dados II
+
+O professor Carlos Eduardo Ferreira prosseguirá com o calendário letivo da 
+disciplina por meio do Google Meet.
+
+[horizontal]
+Contato do Professor:: cef@ime.usp.br
+
+=== MAC0327 - Desafios de Programação I
+
+A professora Cristina Fernandes dará continuidade à disciplina via Google Meet, 
+acesse a sala virtual através do link: https://meet.google.com/zht-asmy-bcz
+
+A professora afirma que "`durante a semana passada e esta semana, a carga de 
+atividades foi diminuída`" e que está avaliando a situação de perto "`para 
+ajustar tanto a carga de atividades como o critério de avaliação`". Além disso, 
+no dia 24/03 adicionou, no e-disciplinas, uma enquete a fim de obter mais 
+informação sobre a condição dos(as) estudantes em continuar acompanhando as 
+aulas da maneira como as está disponibilizando. 
+
+[horizontal]
+Contato da Professora:: cris@ime.usp.br
+
+[[MAC0331]]
+=== MAC0331 - Geometria Computacional
+
+A professora Cristina Fernandes, a partir do dia 27 de março, dará 
+continuidade à disciplina via Google Meet, e a sala virtual pode ser acessada 
+através do link: https://meet.google.com/vze-ybxa-wpx
+
+A comunicação com as(os) estudantes está sendo feita via e-mail institucional, 
+e-disciplinas e 
+https://www.ime.usp.br/~cris/aulas/20_1_331/[site da professora].
+
+[horizontal]
+Contato da Professora:: cris@ime.usp.br
+
+=== MAC0336 - Criptografia e Segurança de Dados
+
+O professor Routo Terada prosseguirá o calendário letivo com aulas onlines 
+através do Google Meet. O link é disponibilizado um pouco antes do horário de 
+aula no https://paca.ime.usp.br/login/index.php[PACA].
+
+Para dúvidas e demais informações, há um grupo da disciplina no Telegram: 
+t.me/cripto2020ime
+
+[horizontal]
+Contato do Professor:: rt@ime.usp.br
+
+=== MAC0350 - Introdução ao Desenvolvimento de Sistemas de Software
+
+O professor João Eduardo Ferreira continuará dando aulas, de maneira online. A
+disciplina aderiu ao break da semana do dia 23/03/2020, então o início das
+aulas virtuais foi adiado para 31/03/2020.
+
+O material já está e disponível no e-Disciplinas e os alunos podem fazer os
+exercícios das aulas anteriores.
+      
+[horizontal]
+Contato do Professor:: jef@ime.usp.br
+
+=== MAC0375 - Biologia de Sistemas
+
+O professor Ronaldo Fumio Hashimoto continuará dando aulas, de maneira online 
+através do Google Meet. As aulas virtuais terão início em 31/03/2020.
+
+O material estará disponível no e-disciplinas.
+
+[horizontal]
+Contato do Professor:: ronaldo@ime.usp.br
+
+=== MAC0425 - Inteligência Artificial
+
+O professor Marcelo Finger prosseguirá com atividades online, adotando o uso do 
+Google Meet.
+
+[horizontal]
+Contato do Professor:: mfinger@ime.usp.br
+
+=== MAC0427 - Otimização não Linear (Turma 44)
+
+O professor Leônidas de Oliveira Brandão optou por continuar com a matéria 
+virtualmente, consulte a 
+https://edisciplinas.usp.br/course/view.php?id=74359[página no e-disciplina].
+
+[horizontal]
+Contato do Professor:: leo@ime.usp.br
+
+=== MAC0427 - Otimização não Linear (Turma 54)
+
+O professor afirma que "`continua a dar aulas online, sem grandes 
+planejamentos`". Mais informações podem ser encontradas no 
+https://paca.ime.usp.br/course/view.php?id=1500[PACA].
+
+[horizontal]
+Contato do Professor:: ghaeser@ime.usp.br
+
+=== MAC0439 - Laboratório de Bancos de Dados
+
+A professora Kelly Rosa Braghetto dará continuidade usando as seguintes 
+plataformas:
+
+. e-disciplinas
+
+. https://meet.google.com/rpa-nvxe-uyb[Google Meet]
+
+[horizontal]
+Contato da Professora:: kellyrb@ime.usp.br
+
+=== MAC0458 - Direito e Software
+
+O professor José Coelho prosseguirá com a disciplina por meio do Google Meet.
+
+[horizontal]
+Contato do Professor:: coelho@ime.usp.br
+
+=== MAC5747 - Geometria Computacional
+
+Favor ler o informe sobre a disciplina <<MAC0331>> para mais informações --
+é a mesma disciplina.
+
+== Departamento de Matemática Aplicada
+
+=== MAP0151 - Cálculo Numérico e Aplicações
+
+O professor Alexandre Roma está dando continuidade à matéria via Zoom 
+(zoom.us).
+
+A comunicação com a turma ocorre por meio do e-disciplinas. O professor pede 
+para àqueles que entraram posteriormente enviem um e-mail para roma@ime.usp.br 
+para que ele possa adicioná-los manualmente na turma do e-disciplinas.
+
+[horizontal]
+Contato do Professor:: alexandre.roma@gmail.com
+
+=== MAP0216 - Introdução à Análise Real
+
+Favor ler o informe sobre a disciplina <<MAT0206>> para mais informações --
+é a mesma disciplina.
+
+=== MAP0316 -  Equações Diferenciais Ordinárias II
+
+O professor Orlando Francisco Lopes dará proseguimento à disciplina via Google 
+Meet.
+
+[horizontal]
+Contato do Professor:: olopes@ime.usp.br
+
+=== MAP2110 - Modelagem Matemática
+
+O professor Saulo Rabello disponibilizou listas de estudos no e-disciplinas e 
+abriu um forum para interação com as(os) estudantes -- também no e-disciplinas.
+
+Contato do Professor:: saulo@ime.usp.br
+
+=== MAP2212 - Laboratório de Computação e Simulação
+
+A pedido do professor, aqui consta seu comunicado enviado aos alunos:
+
+[quote, Julio Stern]
+____
+Caros Alunos: 
+
+Não tenho em casa condições gravar tele-aulas. Todavia, o livro texto da 
+disciplina cobre completamente o conteúdo da mesma, e minha página tem ainda 
+farto material de leitura adicional.  Assim, eu faculto aos alunos que assim 
+puderem e desejarem, fazer uma série de EP's para prosseguir com as tarefas da 
+disciplina durante o período de quarentena. 
+
+Os EP's estão sendo postados pela monitora no site e-disciplinas. Bem sei que 
+nem todos terão condições de prosseguir desta forma, e teremos que contemplar 
+outras alternativas quando a situação da USP voltar ao normal.
+
+Eu postei ainda um EP "adicional" sugerindo um trabalho de modelagem sobre a 
+atual epidemia COVID-19; este EP adicional não faz parte das atividades 
+regulares da disciplina, mas será levado em conta para favorecer os intrépidos 
+que nele se aventurarem.  
+
+Espero que, nestes tempo difíceis, vocês e seu entes queridos estejam bem. 
+
+Tudo de bom,
+Julio Stern
+____
+
+[horizontal]
+Contato do Professor:: jstern@ime.usp.br
+
+=== MAP2310 - Métodos Numéricos em Equações Diferenciais I
+
+Os professores Nelson Kuhl e Sergio Muniz unificaram as Turmas 44 e 54. A 
+disciplina prosseguirá com calendário letivo através do 
+https://edisciplinas.usp.br/course/view.php?id=75932[e-disciplinas].
+
+Os professores pedem para àqueles que ainda não acessaram o e-disciplina então 
+o façam e respondam a mensagem que foi enviada.
+
+[horizontal]
+Contato do Professor Nelson:: kuhl@ime.usp.br
+
+[horizontal]
+Contato do Professor Sergio:: smo@ime.usp.br
+
+== Física
+
+=== 4300152 - Medidas Física
+
+Atividades suspensas até o retorno das aulas.
+
+Há material, disponível no e-disciplina, para auxiliar o estudo desta matéria 
+durante o período de quarentena.
+
+== Educação
+
+=== EDM0400 - Educação especial, Surdos e Libras
+
+Atividades suspensas até o retorno das aulas. A comunicação tem sido feita via 
+e-disciplinas.
+
