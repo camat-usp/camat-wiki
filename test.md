@@ -1,6 +1,8 @@
 ---
 layout: default
-page-permalink: /aaaa
+permalink: /test
 ---
 
-# AAAA
+# Test
+
+This is a test to check weather or not markdown works in this site.
