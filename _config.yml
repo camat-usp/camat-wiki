@@ -42,13 +42,11 @@ asciidoctor:
     - icons=font
 
 # Build settings
-# theme: jekyll-theme-cayman
-# theme: jekyll-theme-minimal
-theme: minima
-plugins:
-  - jekyll-feed
-  - github-pages
-  - jekyll-asciidoctor
+# theme: minima
+# plugins:
+#   - jekyll-feed
+#   - github-pages
+#   - jekyll-asciidoctor
 
 # Exclude from processing.
 # The following items will not be processed, by default.
