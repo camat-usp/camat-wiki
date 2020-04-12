@@ -1,6 +1,7 @@
 = O quê é o CAMat?
-:page-layout: home
-:page-permalink: /
+:showtitle:
+:page-title: CAMat Wiki
+:page-description: A forkable blog-ready Jekyll site using AsciiDoc
 
 O CAMat^(C)^ é o Centro Acadêmico da Matemática, Estatística e Computação do 
 https://ime.usp.br[Instituto de Matemática e Estatística da Universidade de São Paulo (IME USP)].
