@@ -43,8 +43,8 @@ asciidoctor:
 
 # Build settings
 # theme: jekyll-theme-cayman
-# theme: minima
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
   - github-pages
