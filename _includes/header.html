@@ -5,7 +5,7 @@
 
     <ul class="title-area">
         <li class="name">
-            <h1><a href="/">CAMat</a></h1>
+            <h1><a href="{{ site.url }}">CAMat</a></h1>
         </li>
          <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
         <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -17,10 +17,10 @@
         <ul class="right">
             {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
-            {% if my_page.title %}
+            {% if my_page.title && my_page.layout == "page" %}
             <li class="name">
                 <h1>
-                    <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                    <a href="{{ site.url }}{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
                 </h1>
             </li>
             {% endif %}
