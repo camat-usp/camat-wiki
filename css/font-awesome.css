@@ -6,11 +6,11 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0)
+  src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.1.0/webfonts/fa-brands-400.woff2')
   font-weight: normal;
   font-style: normal;
 }
-.fa {
+.fab, .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
   font-size: inherit;
@@ -546,6 +546,9 @@
 }
 .fa-facebook-square:before {
   content: "\f082";
+}
+.fa-telegram:before{
+  content: "\f3fe"
 }
 .fa-camera-retro:before {
   content: "\f083";

@@ -25,11 +25,12 @@ description: >- # this means to ignore newlines until "baseurl:"
     Instituto de Matemática e Estatística da Universidade de São Paulo 
     (IME USP).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://garkgarcia.github.io/CAMat-Wiki/ # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: CAMatRadical
-github_username:  camat-usp
-facebook_username: CAMatUSP
-repository: GarkGarcia/CAMat-Wiki
+url: https://garkgarcia.github.io # the base hostname & protocol for your site, e.g. http://example.com
+twitter: CAMatRadical
+github:  camat-usp
+facebook: CAMatUSP
+telegram: CAMatRadical
+repository: GarkGarcia/camat-wiki
 
 # Asciidoctor preprocessor settings
 asciidoc: {}
