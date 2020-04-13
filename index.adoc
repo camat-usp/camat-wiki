@@ -2,6 +2,9 @@
 :showtitle:
 :page-layout: home
 
+NOTE: Esse site é apenas um protótipo para testes. 
+Favor não divulgar esse link!
+
 O CAMat^(C)^ é o Centro Acadêmico da Matemática, Estatística e Computação do 
 https://ime.usp.br[Instituto de Matemática e Estatística da Universidade de São Paulo (IME USP)].
 
