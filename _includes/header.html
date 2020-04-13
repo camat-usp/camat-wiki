@@ -1,0 +1,46 @@
+<nav class="top-bar" data-topbar role="navigation">
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+    {% assign titles_size = site.pages | map: 'title' | join: '' | size %}
+
+    <ul class="title-area">
+        <li class="name">
+            <h1><a href="/">CAMat</a></h1>
+        </li>
+         <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+   
+    {% if titles_size > 0 %}
+    <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+            {% for path in page_paths %}
+            {% assign my_page = site.pages | where: "path", path | first %}
+            {% if my_page.title %}
+            <li class="name">
+                <h1>
+                    <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                </h1>
+            </li>
+            {% endif %}
+            {% endfor %}
+            <!--
+            <li class="has-dropdown">
+                <a href="#">Right Button Dropdown</a>
+                <ul class="dropdown">
+                    <li><a href="#">First link in dropdown</a></li>
+                    <li class="active"><a href="#">Active link in dropdown</a></li>
+                </ul>
+            </li>
+            -->
+        </ul>
+
+        <!-- Left Nav Section 
+        <ul class="left">
+            <li><a href="#">Left Nav Button</a></li>
+        </ul>
+        -->
+    </section>
+    {% endif %}
+</nav>

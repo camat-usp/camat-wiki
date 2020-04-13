@@ -1,13 +1,13 @@
 = Atividades Online Durante a Quarentena
 CAMat <camat.usp@gmail.com>
 :page-permalink: /atividades-online-durante-a-quarentena
-:toc: macro
+:page-layout: page
 :page-title: Atividades Online Durante a Quarentena
 :showtitle:
+:toc: macro
 :toc-title: Conteúdos
 :note-caption: Nota
 :icons: font
-:menu: null
 :hide-uri-scheme:
 
 Com a determinação da CRUESP, que suspendeu temporariamente as atividades 

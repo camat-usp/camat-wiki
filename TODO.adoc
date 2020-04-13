@@ -1,5 +1,4 @@
 = Lista de Coisas a Serem Feitas
 
 * Atualizar a licença do site.
-* Customizar a header do site.
 
