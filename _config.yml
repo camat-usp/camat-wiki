@@ -69,3 +69,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - Rakefile
+  - TODO.adoc
+  - README.adoc
+  - LISCENSE.adoc
+  - LICENSE
