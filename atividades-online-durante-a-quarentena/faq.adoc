@@ -1,0 +1,49 @@
+= Perguntas Frequentes
+CAMat <camat.usp@gmail.com>
+:page-permalink: /atividades-online-durante-a-quarentena/faq
+:page-layout: default
+:page-title: Perguntas Frequentes
+:showtitle:
+:toc: macro
+:toc-title: Conteúdos
+:note-caption: Nota
+:icons: font
+:hide-uri-scheme:
+
+== Como acessar o e-disciplinas?
+
+O e-disciplinas, ou moodle, pode ser acessado através do link
+https://www.e-disciplinas.usp.br/acessar com o e-mail institucional (@usp.br) 
+ou número USP e senha única. 
+
+== Onde encontro a página da matéria no e-disciplinas?
+
+Logo que fizer o login, entrará na sua página inicial e ali estará listado 
+todas as disciplinas que está cursando (e tem página no e-disciplinas) ou já 
+cursou.
+
+Caso esteja matriculado na disciplina, mas ela não aparece na sua página
+inicial do e-disciplinas, envie um e-mail para o(a) professor(a) solicitando a
+inclusão.
+
+== Como acessar o PACA?
+
+Ao contrário do e-disciplinas, o PACA não utiliza a senha única e, portanto,
+é necessário fazer cadastro no sistema.
+
+Para criar conta, acesse: https://paca.ime.usp.br/login/signup.php
+
+Caso já tenha cadastro, acesse: https://paca.ime.usp.br/login/index.php
+
+== Estou tendo problemas com o(a) professor(a) ou com o seguimento da disciplina, com quem eu falo?
+
+Entre em contato com a(o) Representante Discente (RD) da Comissão Coordenadora 
+(CoC) de seu curso ou da Comissão de Graduação (CG). Vide a 
+https://docs.google.com/spreadsheets/u/0/d/1JCiXf4PRU6jJEePl67U5xiyljA67JynO8UROUSTcpoU/htmlview[planilha]
+.
+
+Ou entre em contato com o CAMat: camat.usp@gmail.com ou camat@ime.usp.br
+
+O CAMat pode lhe auxiliar a entrar em contato com a(o) RD, não hesite em nos 
+procurar!
+

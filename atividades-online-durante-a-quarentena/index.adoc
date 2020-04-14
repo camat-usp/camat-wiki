@@ -1,9 +1,10 @@
 = Atividades Online Durante a Quarentena
 CAMat <camat.usp@gmail.com>
-:page-permalink: /atividades-online-durante-a-quarentena
+:page-permalink: /atividades-online-durante-a-quarentena/
 :page-layout: page
 :page-title: Atividades Online Durante a Quarentena
 :showtitle:
+:page-liquid:
 :toc: macro
 :toc-title: Conteúdos
 :note-caption: Nota
@@ -29,8 +30,7 @@ utilizado pelos docentes e, portanto, em momento como este, mais do que antes,
 se faz necessário o uso; cheque diariamente a sua caixa de entrada!
 
 [NOTE]
-Dúvidas? Leia o 
-https://camat-usp.github.io/Atividades-Online-Durante-a-Quarentena/faq.html[F.A.Q.]?
+Dúvidas? Leia o {{ site.url }}{{ page.url }}/faq[F.A.Q.]?
 
 [NOTE]
 Você não tem suporte técnico adequado para acompanhar as atividades?
