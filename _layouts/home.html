@@ -27,6 +27,7 @@
     <div class="large-12 columns" role="content">
         {{ content }}
 
+
         <!-- Informes -->
 
         {% assign informes = site.posts | where: "categories", "informe" | limit: 10 %}
@@ -45,35 +46,12 @@
 
         <!-- Fim dos Informes -->
 
+
+        <!-- Agenda -->
+        {% include agenda.html %}
+
         <!-- Contato -->
-
-        <div class="sect1">
-            <h2 id="contato">Contato</h2>
-            <div class="sectionbody">
-                <div class="dlist">
-                    <dl>
-                        <dt class="hdlist1">E-mail</dt>
-                        <dd>
-                            <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-                        </dd>
-                        <dt class="hdlist1">Twitter</dt>
-                        <dd>
-                            <p><a href="https://twitter.com/{{ site.twitter }}">@{{ site.twitter }}</a></p>
-                        </dd>
-                        <dt class="hdlist1">Facebook</dt>
-                        <dd>
-                            <p><a href="https://www.fb.com/{{ site.facebook }}">{{ site.facebook }}</a></p>
-                        </dd>
-                        <dt class="hdlist1">Canal no Telegram</dt>
-                        <dd>
-                            <p><a href="https://t.me/{{ site.telegram }}">@{{ site.telegram }}</a></p>
-                        </dd>
-                    </dl>
-                </div>
-            </div>
-        </div>
-
-        <!-- Fim dos Contatos -->
+        {% include contacts.html %}
     </div>
 
     <!-- End Main Content -->

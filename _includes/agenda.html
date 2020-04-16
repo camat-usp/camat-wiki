@@ -1,0 +1,30 @@
+{% assign agenda = site.data.agenda %}
+{% assign agenda_size = agenda | size %}
+{% if agenda_size != 0 %}
+<div class="sect1">
+    <h2 id="agenda">Agenda</h2>
+    <table class="tableblock frame-all grid-all stretch">
+        <colgroup>
+            <col style="width: 16.6666%;">
+            <col style="width: 16.6666%;">
+            <col style="width: 60.66667;">
+        </colgroup>
+        <thead>
+            <tr>
+                <th class="tableblock halign-left valign-top">Data</th>
+                <th class="tableblock halign-left valign-top">Horário</th>
+                <th class="tableblock halign-left valign-top">Chamada</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for event in site.data.agenda %}
+            <tr>
+                <td class="tableblock halign-left valign-top"><p class="tableblock">{{ event.data }}</p></td>
+                <td class="tableblock halign-left valign-top"><p class="tableblock">{{ event.hora }}</p></td>
+                <td class="tableblock halign-left valign-top"><p class="tableblock">{{ event.chamada }}</p></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endif %}
