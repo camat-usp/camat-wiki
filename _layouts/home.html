@@ -36,7 +36,8 @@
             <h2 id="informes">Informes</h2>
             <ul>
                 {% for post in informes %}
-                <li>{{ post.date }} - <a href=".{{ post.url }}">{{ post.navtitle }}</a></li>
+                {% assign date = post.date | date: "%d/%m/%Y" %}
+                <li>{{ date }} - <a href=".{{ post.url }}">{{ post.navtitle }}</a></li>
                 {% endfor %}
             </ul>
         </div>
