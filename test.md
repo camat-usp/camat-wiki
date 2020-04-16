@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Test
-permalink: /test
+permalink: /test/
 ---
 
 # Test
