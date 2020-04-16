@@ -1,6 +1,6 @@
 = Perguntas Frequentes
 CAMat <camat.usp@gmail.com>
-:page-permalink: /atividades-online-durante-a-quarentena/faq
+:page-permalink: /apoio/atividades-online-durante-a-quarentena/faq
 :page-layout: default
 :page-title: Perguntas Frequentes
 :showtitle:

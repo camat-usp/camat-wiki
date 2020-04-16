@@ -1,7 +1,6 @@
 = Atividades Online Durante a Quarentena
 CAMat <camat.usp@gmail.com>
-:page-permalink: /atividades-online-durante-a-quarentena/
-:page-layout: page
+:page-permalink: /apoio/atividades-online-durante-a-quarentena/
 :page-title: Atividades Online Durante a Quarentena
 :showtitle:
 :page-liquid:

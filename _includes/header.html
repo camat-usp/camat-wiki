@@ -1,7 +1,6 @@
 <nav class="top-bar" data-topbar role="navigation">
-    {% assign default_paths = site.pages | where: "layout", "page" | map: "path" %}
-    {% assign page_paths = site.header_pages | where: "layout", "page" | default: default_paths %}
-    {% assign titles_size = site.pages | where: "layout", "page" | map: 'title' | join: '' | size %}
+    {% assign paths = site.pages | where: "layout", "section" | sort: "title" | map: "path" %}
+    {% assign titles_size = site.pages | where: "layout", "section" | map: 'title' | join: '' | size %}
 
     <ul class="title-area">
         <li class="name">
@@ -11,11 +10,11 @@
         <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
     </ul>
    
-    {% if titles_size > 0 %}
+    {% if titles_size != 0 %}
     <section class="top-bar-section">
         <!-- Right Nav Section -->
         <ul class="right">
-            {% for path in page_paths %}
+            {% for path in paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title %}
             <li class="name">
@@ -25,7 +24,8 @@
             </li>
             {% endif %}
             {% endfor %}
-            <!--
+            
+            <!-- Descomente isso caso queira adicionar um menu com dropdow (requer javascript)
             <li class="has-dropdown">
                 <a href="#">Right Button Dropdown</a>
                 <ul class="dropdown">
@@ -36,7 +36,7 @@
             -->
         </ul>
 
-        <!-- Left Nav Section 
+        <!-- Descomente isso caso queira adicionar uma seção à esquerda do meno de navegação
         <ul class="left">
             <li><a href="#">Left Nav Button</a></li>
         </ul>

@@ -1,0 +1,4 @@
+= Blog
+:page-layout: section
+:showtitle:
+
