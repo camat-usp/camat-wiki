@@ -12,14 +12,3 @@ A wiki camatiana vem a ser o muli-canal do CAMat, um espaço de transparência -
 administrativa e burocrática -- e comunicação entre a gestão do CAMat e a 
 galera do IME.
 
-== Aonde o CAMat se esconde?
-
-.Na vida real
-* Cola na salinha do CA, ali no Bloco B, dentro da Vivência (sala 18).
-
-.Na vida virtual
-E-mail:: camat.usp@gmail.com
-Twitter:: https://twitter.com/CAMatRadical[@CAMatRadical]
-Facebook:: http://www.fb.com/CAMatUSP[CAMatUSP]
-Canal no Telegram:: https://t.me/CAMatRadical[@CAMatRadical]
-
