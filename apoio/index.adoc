@@ -1,6 +1,61 @@
 = Apoio aos Estudos
-:page-categories: section
 :showtitle:
+:page-categories: section
 
-* link:./atividades-online-durante-a-quarentena/[Atividades Online Durante a Quarentena]
+Sabendo que o acesso a materiais de estudos, como livros e provas, permite
+a permanência, disponibilizamos dois suportes:
+
+* link:./referencias-bibliograficas[Referências Bibliográficas]
+* link:./banco-prova[Banco de Prova]. 
+
+== Atividades Online Durante a Quarentena
+
+Com a determinação da CRUESP, que suspendeu temporariamente 
+as atividades escolares presenciais a partir de terça-feira (17/03), 
+passaram a ser adotadas alternativas online para dar continuidade às 
+disciplinas.
+
+Sabendo que estas medidas foram tomadas às pressas e visando auxiliar 
+as(os) estudantes, organizamos 
+link:./atividades-online-durante-a-quarentena[esta página] reunindo informações 
+de diversas disciplinas, facilitando o acesso, visto que estas não estão todas 
+numa plataforma comum.
+
+== Referências Bibliográficas
+
+Além de livros físicos, os arquivos .pdf passam a ser de grande 
+utilidade e apoio ao estudo - principalmente quando há poucos exemplares 
+na biblioteca. Assim, reunimos link:./referencias-bibliograficas[nesta página] 
+alguns links de download dos livros comumente utilizados 
+em disciplinas relacionadas aos cursos do IME - USP.
+
+As informações foram obtidas por meio do JupiterWeb, 
+na relação bibliográfica de cada disciplina, e por colaborações 
+através https://forms.gle/ETVd3qDpj9XjuC3C6[deste formulário].
+
+== Banco de Provas
+
+Encontre provas antigas no link:./apoio/banco-prova[Banco de Provas]. 
+ 
+Para que seja útil aos estudos, é importante que o Banco 
+de provas esteja devidamente atualizado - conforme o passar dos semestres - 
+e organizado. Tal trabalho é possível devido a colaboração de IMEanes, veja 
+como você pode ajudar:
+
+=== Enviando provas
+
+Envie provas para o e-mail camat@ime.usp.br ou camat.usp@gmail.com, lembre 
+de enviar como *_arquivo_* anexado! Preferencialmente, um arquivo `.pdf`.
+
+O arquivo deve estar nomeado no padrão `código_ano_tipo_docente.pdf`, exemplo:
+
+----
+MAT0110_2018_P2_Fulana.pdf
+----
+
+Em casos de não poder/saber escanear documentos ou fechar arquivo `.pdf`, 
+você pode enviar fotos da provas (desde que estejam em ótima resolução) 
+e nós fecharemos o `.pdf`.
+
+
 
