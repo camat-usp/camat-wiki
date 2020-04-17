@@ -18,6 +18,14 @@ ul.title-area > li.name > h1 > a > img {
     height: 60%;
 }
 
+.top-bar .title-area .name h1 a {
+    padding-right: 0;
+}
+
+ul.right li h1 a {
+    padding-left: 0 !important;
+}
+
 div#logo {
     margin-top: 1em;
     display: flex;
