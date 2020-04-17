@@ -6,3 +6,15 @@ footer i:before {
     font-size: 150%;
 }
 
+ul.title-area > li.name > h1 {
+    height: 100%;
+}
+
+ul.title-area > li.name > h1 > a {
+    height: 100%;
+}
+
+ul.title-area > li.name > h1 > a > img {
+    height: 70%;
+}
+
