@@ -1,4 +1,4 @@
 = Perguntas Frequêntes
-:page-layout: section
+:page-categories: section
 :showtitle:
 

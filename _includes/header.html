@@ -1,6 +1,6 @@
 <nav class="top-bar" data-topbar role="navigation">
-    {% assign paths = site.pages | where: "layout", "section" | sort: "title" | map: "path" %}
-    {% assign titles_size = site.pages | where: "layout", "section" | map: 'title' | join: '' | size %}
+    {% assign paths = site.pages | where: "categories", "section" | sort: "title" | map: "path" %}
+    {% assign titles_size = site.pages | where: "categories", "section" | map: 'title' | join: '' | size %}
 
     <ul class="title-area">
         <li class="name">

@@ -1,4 +1,5 @@
 = Blog
-:page-layout: section
+:page-layout: blog
+:page-categories: section
 :showtitle:
 

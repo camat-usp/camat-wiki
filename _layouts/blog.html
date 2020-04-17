@@ -31,6 +31,24 @@
     </div>
 
     <!-- End Main Content -->
+        
+    <!-- Informes -->
+
+    {% assign informes = site.posts | limit: 10 %}
+    {% assign informes_size = informes | size %}
+    {% if informes_size != 0 %}
+    <div class="sect1">
+        <h2 id="informes">Informes</h2>
+        <ul>
+            {% for post in informes %}
+            {% assign date = post.date | date: "%d/%m/%Y" %}
+            <li>{{ date }} - <a href=".{{ post.url }}">{{ post.navtitle }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    <!-- Fim dos Informes -->
 </div>
 
 <!-- End Main Content and Sidebar -->

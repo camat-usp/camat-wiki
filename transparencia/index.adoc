@@ -1,5 +1,4 @@
 = Transparencia
-:page-layout: section
+:page-categories: section
 :showtitle:
-
 
