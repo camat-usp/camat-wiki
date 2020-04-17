@@ -18,3 +18,17 @@ ul.title-area > li.name > h1 > a > img {
     height: 60%;
 }
 
+div#logo {
+    margin-top: 1em;
+    display: flex;
+}
+
+div#logo img {
+    width: 25%;
+    margin: 0 auto;
+}
+
+.unselectable {
+    user-select: none;
+}
+
