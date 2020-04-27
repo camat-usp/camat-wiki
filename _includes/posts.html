@@ -1,0 +1,18 @@
+{% if include.category %}
+{% assign posts = site.posts | where: "categories", include.category %}
+{% else %}
+{% assign posts = site.posts %}
+{% endif %}
+
+{% if include.limit %}
+{% assign posts = posts | limit: include.limit %}
+{% endif %}
+
+{% for post in posts %}
+{% assign date = post.date | date: "%d/%m/%Y" %}
+<div class="panel callout">
+    <h5><a href=".{{ post.url }}">{{ post.navtitle }}</a></h5>
+    <h6 class="subheader">{{ date }}</h6>
+    <p>{{ post.excerpt }}</p>
+</div>
+{% endfor %}
