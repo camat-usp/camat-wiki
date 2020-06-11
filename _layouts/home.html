@@ -9,54 +9,45 @@
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="Your name goes here">
     <meta name="copyright" content="Maybe consider a Creative Commons license">
-    <link rel="stylesheet" href="{{page.root}}css/foundation.css">
     <link rel="stylesheet" href="{{page.root}}css/font-awesome.css">
     <link rel="stylesheet" href="{{page.root}}css/coderay.css">
-    <link rel="stylesheet" href="{{page.root}}css/styles.css">
+    <link rel="stylesheet" href="{{page.root}}css/milligram.css">
+    <link rel="stylesheet" href="{{page.root}}css/main.css">
     {% include favicon.html %}
 </head>
+
 <body>
+<main class="wrapper">
 
-{% include header.html %}
-
-<!-- Main Page Content and Sidebar -->
-
-<div class="row">
-
+    {% include header.html %}
+    
+    <header id="home" class="header" role="content">
+        <section class="container">
+            {% include logo.svg %}
+        </section>
+    </header>
+    
     <!-- Main Blog Content -->
-    <div class="large-12 columns" role="content">
-        <div id="logo" class="content unselectable">
-            <img src="{{ site.url}}/icons/logo-black.svg"></img>
-        </div>
-        
+    <section id="oque" class="container">
         {{ content }}
-
-
-        <!-- Informes -->
-
-        <div class="sect1">
-            <h2 id="informes">Informes</h2>
-            {% include posts.html category="informe" limit=10 %}
-        </div>
-
-        <!-- Fim dos Informes -->
-
-
-        <!-- Agenda -->
+    </section>
+       
+    <section id="informes" class="container" role="content">
+        <h2>Informes</h2>
+        {% include posts.html category="informe" limit=10 %}
+    </section>
+        
+    <section id="agenda" class="container" role="content">
         {% include agenda.html %}
-
-        <!-- Contato -->
+    </section>
+        
+    <section id="contato" class="container" role="content">
         {% include contacts.html %}
-    </div>
+    </section>
+    
+    <!-- Footer -->
+    {% include footer.html %}
 
-    <!-- End Main Content -->
-</div>
-
-<!-- End Main Content and Sidebar -->
-
-
-<!-- Footer -->
-{% include footer.html %}
-
+</main>
 </body>
 </html>

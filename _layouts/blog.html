@@ -9,43 +9,28 @@
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="Your name goes here">
     <meta name="copyright" content="Maybe consider a Creative Commons license">
-    <link rel="stylesheet" href="{{ site.url }}/css/foundation.css">
     <link rel="stylesheet" href="{{ site.url }}/css/font-awesome.css">
     <link rel="stylesheet" href="{{ site.url }}/css/coderay.css">
-    <link rel="stylesheet" href="{{ site.url }}/css/styles.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/milligram.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
 </head>
+
 <body>
-
-    <!-- Header -->
-{% include header.html %}
-<!-- Fim do Header -->
-
-<!-- Main Page Content and Sidebar -->
-
-<div class="row">
-
-    <!-- Main Blog Content -->
-    <div class="large-12 columns" role="content">
+<main class="wrapper">
+    {% include header.html %}
+    
+    <section id="blog" class="container" role="content">
         {{ content }}
-
-
-        <!-- Informes -->
-
-        <div class="sect1">
-            {% include posts.html limit=50 %}
-        </div>
-
-        <!-- Fim dos Informes -->
+    </section>
+       
     </div>
-
-    <!-- End Main Content -->
-</div>
-
-<!-- End Main Content and Sidebar -->
-
-
-<!-- Footer -->
-{% include footer.html %}
-
+    
+    <section id="posts" class="container" role="content">
+        <h2>Posts</h2>
+        {% include posts.html limit=50 %}
+    </section>
+    
+    {% include footer.html %}
+</main>
 </body>
 </html>
