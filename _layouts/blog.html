@@ -1,18 +1,7 @@
 <!doctype html>
-<!--[if IE 9]>
-<html class="lt-ie10" lang="en"> <![endif]-->
 <html class="no-js" lang="en" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CAMat - {{page.title}}</title>
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="author" content="Your name goes here">
-    <meta name="copyright" content="Maybe consider a Creative Commons license">
-    <link rel="stylesheet" href="{{ site.url }}/css/font-awesome.css">
-    <link rel="stylesheet" href="{{ site.url }}/css/coderay.css">
-    <link rel="stylesheet" href="{{ site.url }}/css/milligram.css">
-    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    {% include head.html %}
 </head>
 
 <body>

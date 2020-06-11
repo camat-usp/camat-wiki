@@ -3,17 +3,8 @@
 <html class="lt-ie10" lang="en"> <![endif]-->
 <html class="no-js" lang="en" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CAMat</title>
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="author" content="Your name goes here">
-    <meta name="copyright" content="Maybe consider a Creative Commons license">
-    <link rel="stylesheet" href="{{page.root}}css/font-awesome.css">
-    <link rel="stylesheet" href="{{page.root}}css/coderay.css">
-    <link rel="stylesheet" href="{{page.root}}css/milligram.css">
-    <link rel="stylesheet" href="{{page.root}}css/main.css">
-    {% include favicon.html %}
+    {% include head.html %}
 </head>
 
 <body>
@@ -37,17 +28,11 @@
         {% include posts.html category="informe" limit=10 %}
     </section>
         
-    <section id="agenda" class="container" role="content">
-        {% include agenda.html %}
-    </section>
+    {% include agenda.html %}
         
-    <section id="contato" class="container" role="content">
-        {% include contacts.html %}
-    </section>
+    {% include contacts.html %}
     
-    <!-- Footer -->
     {% include footer.html %}
-
 </main>
 </body>
 </html>

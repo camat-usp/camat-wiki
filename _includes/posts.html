@@ -8,11 +8,21 @@
 {% assign posts = posts | limit: include.limit %}
 {% endif %}
 
-{% for post in posts %}
-{% assign date = post.date | date: "%d/%m/%Y" %}
-<div class="panel callout">
-    <h5><a href=".{{ post.url }}">{{ post.navtitle }}</a></h5>
-    <h6 class="subheader">{{ date }}</h6>
-    <p>{{ post.excerpt }}</p>
-</div>
-{% endfor %}
+<table>
+    <colgroup>
+        <col style="width: 25%;">
+        <col style="width: 75%;">
+    </colgroup>
+    <tbody>
+        {% for post in posts %}
+        {% assign date = post.date | date: "%d/%m/%Y" %}
+        <tr>
+            <td>
+                <h4><a href=".{{ post.url }}">{{ post.navtitle }}</a></h4>
+                <sub>{{ date }}</sub>
+            </td>
+            <td>{{ post.excerpt }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
