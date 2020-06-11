@@ -6,17 +6,22 @@
             <a role="button" 
                aria-label="GitHub" 
                href="https://github.com/{{site.repository}}">
-                <i class="fa fa-github-square"></i>
+                {% include github.svg %}
             </a>
             <a role="button" 
                aria-label="Facebook" 
                href="http://www.fb.com/{{site.twitter}}">
-                <i class="fa fa-facebook-square"></i>
+                {% include facebook.svg %}
             </a>
             <a role="button" 
                aria-label="Twitter" 
                href="https://twitter.com/{{site.twitter}}">
-                <i class="fa fa-twitter-square"></i>
+                {% include twitter.svg %}
+            </a>
+            <a role="button" 
+               aria-label="Telegram" 
+               href="https://t.me/{{site.telegram}}">
+                {% include telegram.svg %}
             </a>
         </nav>
     </section>
