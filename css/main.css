@@ -543,3 +543,7 @@ footer a svg {
     fill: currentColor
 }
 
+td.icon {
+    user-select: none;
+}
+
