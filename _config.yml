@@ -39,7 +39,7 @@ asciidoctor:
   safe: unsafe
   attributes:
     icons: ""
-    iconsdir: {{site.url}}/images/icons
+    iconsdir: https://garkgarcia.github.io/camat-wiki/images/icons
     idseparator: _
     source-highlighter: coderay
       #- icons=font
