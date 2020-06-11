@@ -5,21 +5,21 @@
 </head>
 
 <body>
-<main class="wrapper">
-    {% include header.html %}
-    
-    <section id="blog" class="container" role="content">
-        {{ content }}
-    </section>
-       
-    </div>
-    
-    <section id="posts" class="container" role="content">
-        <h2>Posts</h2>
-        {% include posts.html limit=50 %}
-    </section>
-    
-    {% include footer.html %}
-</main>
+    <main class="wrapper">
+        {% include header.html %}
+        
+        <section id="introducao" class="container">
+            {{ content }}
+        </section>
+           
+        </div>
+        
+        <section id="posts" class="container">
+            <h2>Posts</h2>
+            {% include posts.html limit=50 %}
+        </section>
+        
+        {% include footer.html %}
+    </main>
 </body>
 </html>

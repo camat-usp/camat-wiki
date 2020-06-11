@@ -8,31 +8,31 @@
 </head>
 
 <body>
-<main class="wrapper">
-
-    {% include header.html %}
+    <main class="wrapper">
     
-    <header id="home" class="header" role="content">
-        <section class="container">
-            {% include logo.svg %}
+        {% include header.html %}
+        
+        <header id="home" class="header" role="content">
+            <section class="container">
+                {% include logo.svg %}
+            </section>
+        </header>
+        
+        <!-- Main Blog Content -->
+        <section id="oque" class="container">
+            {{ content }}
         </section>
-    </header>
-    
-    <!-- Main Blog Content -->
-    <section id="oque" class="container">
-        {{ content }}
-    </section>
-       
-    <section id="informes" class="container" role="content">
-        <h2>Informes</h2>
-        {% include posts.html category="informe" limit=10 %}
-    </section>
+           
+        <section id="informes" class="container">
+            <h2>Informes</h2>
+            {% include posts.html category="informe" limit=10 %}
+        </section>
+            
+        {% include agenda.html %}
+            
+        {% include contacts.html %}
         
-    {% include agenda.html %}
-        
-    {% include contacts.html %}
-    
-    {% include footer.html %}
-</main>
+        {% include footer.html %}
+    </main>
 </body>
 </html>

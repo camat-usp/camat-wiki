@@ -8,7 +8,7 @@
 {% assign posts = posts | limit: include.limit %}
 {% endif %}
 
-<table>
+<table role="feed">
     <colgroup>
         <col style="width: 25%;">
         <col style="width: 75%;">
@@ -16,7 +16,7 @@
     <tbody>
         {% for post in posts %}
         {% assign date = post.date | date: "%d/%m/%Y" %}
-        <tr>
+        <tr role="article">
             <td>
                 <h4><a href=".{{ post.url }}">{{ post.navtitle }}</a></h4>
                 <sub>{{ date }}</sub>
