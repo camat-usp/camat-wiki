@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 *,*:after,*:before {
 	box-sizing: inherit
 }
@@ -9,11 +11,15 @@ html {
 
 body {
 	color: #606c76;
-	font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-size: 1.6em;
 	font-weight: 300;
 	letter-spacing: .01em;
 	line-height: 1.6
+}
+
+pre, code {
+        font-family:  'Source Code Pro', monospace;
 }
 
 blockquote {
