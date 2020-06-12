@@ -5,7 +5,7 @@
 Sabendo que o acesso a materiais de estudos, como livros e provas, permite
 a permanência, disponibilizamos dois suportes:
 
-* link:./referencias-bibliograficas[Referências Bibliográficas]
+* link:https://camat-usp.github.io/Referencias-Bibliograficas/[Referências Bibliográficas]
 * link:./banco-prova[Banco de Prova]. 
 
 == Atividades Online Durante a Quarentena
@@ -25,7 +25,8 @@ numa plataforma comum.
 
 Além de livros físicos, os arquivos .pdf passam a ser de grande 
 utilidade e apoio ao estudo - principalmente quando há poucos exemplares 
-na biblioteca. Assim, reunimos link:./referencias-bibliograficas[nesta página] 
+na biblioteca. Assim, reunimos 
+link:https://camat-usp.github.io/Referencias-Bibliograficas/[nesta página] 
 alguns links de download dos livros comumente utilizados 
 em disciplinas relacionadas aos cursos do IME - USP.
 

@@ -40,9 +40,13 @@ asciidoctor:
   attributes:
     icons: ""
     iconsdir: https://garkgarcia.github.io/camat-wiki/images/icons
+    note-title: NOTA
+    tip-title: DICA
+    important-title: IMPORTANTE
+    caution-title: AVISO
+    warning-title: AVISO
     idseparator: _
     source-highlighter: coderay
-      #- icons=font
 
 # Build settings
 # theme: minima
