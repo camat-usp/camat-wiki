@@ -521,6 +521,10 @@ td h4 {
  margin-bottom:0
 }
 
+.navigation-link, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Quicksand', sans-serif;
+}
+
 footer a svg {
     height: 1em;
     fill: currentColor
