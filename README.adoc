@@ -41,6 +41,13 @@ título _Informes_. Todos os posts são exibidos também na seção _Blog_.
 Para incluir um feed de posts em uma página, basta incluir o arquivo 
 `posts.html`.
 
+=== Agenda
+
+Os eventos da agenda -- que podem ser visualizados na página de entrata do 
+site abaixo do título _Agenda_ -- são armazenados na planilha 
+`/_data/agenda.csv`. Para adicionar ou editar eventos, basta modificar as 
+informações na planilha -- o site será automaticamente atualizado.
+
 === Fontes
 
 Todas as fontes utilizadas no site são livres. As fontes são extraídas do 
@@ -62,3 +69,9 @@ https://github.com/GarkGarcia/camat-wiki/blob/master/css/fonts/extract.py[um scr
 |OFL-1.1
 |===
 
+=== Icones
+
+Todos os ícones usados no site são providos pelo projeto 
+https://github.com/FortAwesome/Font-Awesome[Font Awesome], licenciados via 
+uma licença compatível com as licenças GPL. Os ícones são armazenados no 
+diretório `/images/icons/`.
