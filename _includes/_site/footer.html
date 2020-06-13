@@ -1,0 +1,29 @@
+<footer class="footer">
+    <section class="container">
+        <a href="mailto:{{site.email}}">{{site.email}}</a>
+        
+        <nav class="nav">
+            <a role="button" 
+               aria-label="GitHub" 
+               href="https://github.com/{{site.repository}}">
+                {% include github.svg %}
+            </a>
+            <a role="button" 
+               aria-label="Facebook" 
+               href="http://www.fb.com/{{site.twitter}}">
+                {% include facebook.svg %}
+            </a>
+            <a role="button" 
+               aria-label="Twitter" 
+               href="https://twitter.com/{{site.twitter}}">
+                {% include twitter.svg %}
+            </a>
+            <a role="button" 
+               aria-label="Telegram" 
+               href="https://t.me/{{site.telegram}}">
+                {% include telegram.svg %}
+            </a>
+        </nav>
+    </section>
+</footer>
+

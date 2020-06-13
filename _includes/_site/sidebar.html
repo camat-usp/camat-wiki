@@ -1,0 +1,17 @@
+<aside class="large-3 columns">
+
+    <h4>Posts</h4>
+    <ul id="posts" class="posts nav">
+        {% for post in site.posts limit: 5 %}
+        <li><a href=".{{ post.url }}">{{ post.navtitle }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <!-- Remova esse comentário para inserir um painel lateral
+    <div class="panel">
+        {{site.description}}
+    </div>
+    -->
+
+</aside>
+
