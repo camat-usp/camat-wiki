@@ -1,5 +1,4 @@
-# Script que "rouba" as fontes do Google Fonts e instala localmente
-# Copyleft CAMat(TM)
+# Script que "rouba as fontes do Google Fonts e instala localmente"
 
 import re
 from urllib.request import urlopen
@@ -16,7 +15,8 @@ for match in re.finditer(URL_RE, css):
                          match.group(2),
                          match.group(3))
 
-    if url not in urls: urls[url] = (font, h, f)
+    if url not in urls:
+        urls[url] = (font, h, f)
 
 output_css = css
 
