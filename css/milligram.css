@@ -420,7 +420,7 @@ table {
 }
 
 td, th {
-	border-bottom: 0.1rem solid var(--background-color);
+	border-bottom: 0.1rem solid var(--mid-color);
 	padding: 1.2rem 1.5rem
 }
 
