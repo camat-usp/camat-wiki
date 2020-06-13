@@ -4,7 +4,61 @@
 O CAMat^(TM)^ é o Centro Acadêmico da Matemática, Estatística e Computação do 
 https://ime.usp.br[Instituto de Matemática e Estatística da Universidade de São Paulo (IME USP)].
 
-A wiki camatiana vem a ser o muli-canal do CAMat, um espaço de transparência -- 
-administrativa e burocrática -- e comunicação entre a gestão do CAMat e a 
+A wiki camatiana vem a ser o multi-canal do CAMat, um espaço de transparência 
+-- administrativa e burocrática -- e comunicação entre a gestão do CAMat e a 
 galera do IME.
+
+== Detalhes Técnicos
+
+O site é baseado no gerador de sites estáticos https://jekyllrb.com/[Jekyll] e 
+hospedado no https://pages.github.com/[GitHub Pages] com Integração de Código 
+provida via https://travis-ci.org/[Travis CI].
+
+O site utiliza um tema Jekyll próprio, baseado em uma verção modificada do 
+framework de CSS https://milligram.io/[Milligram]. Ainda, o site faz uso do 
+plug-in https://github.com/asciidoctor/jekyll-asciidoc[`jekyll-asciidoc`].
+
+As páginas do site podem ser especificadas em 
+https://daringfireball.net/projects/markdown/[Markdown] ou 
+https://asciidoctor.org/docs/what-is-asciidoc/[Asciidoc].
+
+=== Navegação
+
+O site é divido em seções. Para declarar uma seção, basta criar uma página com 
+o atributo `page-catery: section`. O cabeçalho do site será automaticamente 
+atualizado.
+
+=== Posts
+
+Os posts são armazenados e categorizados pelo sistema Jekyll. Para informações 
+sobre como criar e configurar posts, favor consultar 
+https://jekyllrb.com/docs/posts/[a documentção do Jekyll].
+
+Os posts categorizados como _informes_ -- posts com a string `informe` incluída 
+no atributo `page-category` -- são exibidos na página principal abaixo do 
+título _Informes_. Todos os posts são exibidos também na seção _Blog_.
+
+Para incluir um feed de posts em uma página, basta incluir o arquivo 
+`posts.html`.
+
+=== Fontes
+
+Todas as fontes utilizadas no site são livres. As fontes são extraídas do 
+repositório `gstatic` e armazenadas localmente via 
+https://github.com/GarkGarcia/camat-wiki/blob/master/css/fonts/extract.py[um script de Python].
+
+[cols=2*]
+|===
+|Fonte
+|Licença
+
+|https://github.com/andrew-paglinawan/QuicksandFamily[Quicksand]
+|OFL-1.1
+
+|https://github.com/googlefonts/roboto[Roboto]
+|Apache-2.0
+
+https://github.com/adobe-fonts/source-code-pro[Source Code Pro]
+|OFL-1.1
+|===
 
