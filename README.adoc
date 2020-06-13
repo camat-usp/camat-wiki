@@ -58,7 +58,7 @@ https://github.com/GarkGarcia/camat-wiki/blob/master/css/fonts/extract.py[um scr
 |https://github.com/googlefonts/roboto[Roboto]
 |Apache-2.0
 
-https://github.com/adobe-fonts/source-code-pro[Source Code Pro]
+|https://github.com/adobe-fonts/source-code-pro[Source Code Pro]
 |OFL-1.1
 |===
 
