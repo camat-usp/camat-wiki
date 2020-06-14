@@ -54,6 +54,8 @@ asciidoctor:
 #   - jekyll-feed
 #   - github-pages
 #   - jekyll-asciidoctor
+plugins:
+  - jekyll-minifier
 
 # Exclude from processing.
 # The following items will not be processed, by default.
