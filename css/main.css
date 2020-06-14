@@ -105,8 +105,8 @@ td h4 {
 }
 
 .navigation {
-    background: var(--light-color);
-    border-bottom: 0.1rem solid var(--mid-color);
+    background: var(--header-color);
+    border-bottom: 0.1rem solid var(--border-color);
     display: block;
     height: 5.2rem;
     left: 0;
@@ -171,7 +171,7 @@ td h4 {
 
 .popover {
     background: white;
-    border: 0.1rem solid var(--mid-color);
+    border: 0.1rem solid var(--border-color);
     border-radius: 0.4rem;
     display: none;
     filter: drop-shadow(0 0 0.6rem rgba(0, 0, 0, 1));
@@ -207,7 +207,7 @@ td h4 {
 }
 
 .popover:before {
-    border-bottom-color: var(--mid-color);
+    border-bottom-color: var(--border-color);
     transform: translate(-50%, -102%);
 }
 
@@ -232,7 +232,7 @@ td h4 {
 }
 
 .popover .popover-link {
-    border-bottom: 0.1rem solid var(--mid-color);
+    border-bottom: 0.1rem solid var(--border-color);
     color: var(--foreground-color);
     display: block;
     font-size: 1.2rem;
@@ -278,19 +278,6 @@ td h4 {
     background-color: var(--foreground-color);
 }
 
-.showcase-hero {
-    border-bottom: 0.1rem solid var(--light-color);
-    max-width: 100%;
-    padding-bottom: 7.5rem;
-    padding-top: 7.5rem;
-    width: 100%;
-}
-
-.showcase-hero,
-.showcase-share {
-    text-align: center;
-}
-
 .subscribe-column {
     max-width: 41% !important;
 }
@@ -306,57 +293,6 @@ td h4 {
     border-bottom-left-radius: 0;
     border-top-left-radius: 0;
     margin: 0;
-}
-
-.carbonads {
-    background-color: var(--light-color);
-    border-radius: 4px;
-    color: var(--foreground-color);
-    line-height: 1.6;
-    margin: 0 auto;
-    margin-bottom: 2rem;
-    max-width: 33rem;
-    padding: 1.5rem;
-}
-
-.carbonads,
-.carbonads span {
-    display: block;
-    overflow: hidden;
-}
-
-.carbonads .carbon-poweredby,
-.carbonads .carbon-text {
-    color: var(--foreground-color);
-    display: block;
-    float: right;
-    font-size: 1.2rem;
-    max-width: 44%;
-    text-align: left;
-    width: 44%;
-}
-
-@media (min-width: 40rem) {
-    .carbonads .carbon-poweredby,
-    .carbonads .carbon-text {
-        max-width: 52%;
-        width: 52%;
-    }
-}
-
-.carbonads .carbon-poweredby {
-    margin: 0;
-    margin-top: -2.5rem;
-}
-
-.carbonads .carbon-img {
-    float: left;
-    margin-right: 1rem;
-}
-
-#home .carbonads {
-    background-color: white;
-    margin-bottom: 0;
 }
 
 .example {
@@ -419,7 +355,7 @@ td h4 {
 }
 
 .example .column-demo {
-    background: var(--mid-color);
+    background: var(--border-color);
     border-radius: 0.4rem;
     display: block;
     font-size: 1rem;

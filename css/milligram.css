@@ -2,8 +2,8 @@
     --highlight-color: #9b4dca;
     --foreground-color: #606c76;
     --brackground-color: #e1e1e1;
-    --light-color: #f4f5f6;
-    --mid-color: #d1d1d1;
+    --header-color: #f4f5f6;
+    --border-color: #d1d1d1;
 }
 
 *,
@@ -32,7 +32,7 @@ code {
 }
 
 blockquote {
-    border-left: 0.3rem solid var(--mid-color);
+    border-left: 0.3rem solid var(--border-color);
     margin-left: 0;
     margin-right: 0;
     padding: 1rem 1.5rem;
@@ -181,7 +181,6 @@ input[type="submit"].button-clear[disabled]:hover {
 }
 
 code {
-    background: var(--light-color);
     border-radius: 0.4rem;
     font-size: 86%;
     margin: 0 0.2rem;
@@ -190,7 +189,6 @@ code {
 }
 
 pre {
-    background: var(--light-color);
     border-left: 0.3rem solid var(--highlight-color);
     overflow-y: hidden;
 }
@@ -204,7 +202,7 @@ pre > code {
 
 hr {
     border: 0;
-    border-top: 0.1rem solid var(--light-color);
+    border-top: 0.1rem solid var(--header-color);
     margin: 3rem 0;
 }
 
@@ -226,7 +224,7 @@ textarea,
 select {
     -webkit-appearance: none;
     background-color: transparent;
-    border: 0.1rem solid var(--mid-color);
+    border: 0.1rem solid var(--border-color);
     border-radius: 0.4rem;
     box-shadow: none;
     box-sizing: inherit;
@@ -557,7 +555,7 @@ table {
 
 td,
 th {
-    border-bottom: 0.1rem solid var(--mid-color);
+    border-bottom: 0.1rem solid var(--border-color);
     padding: 1.2rem 1.5rem;
 }
 
