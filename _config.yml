@@ -45,6 +45,8 @@ asciidoctor:
     important-title: IMPORTANTE
     caution-title: AVISO
     warning-title: AVISO
+    toc: macro
+    toc-title: Conteúdos
     idseparator: _
     source-highlighter: coderay
 
