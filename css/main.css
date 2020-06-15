@@ -9,12 +9,16 @@
     --highlight-color: #ba3925;
 }
 
-ul {
-    list-style: circle;
+* {
+    text-align: justify;
 }
 
 pre {
     padding: 1rem;
+}
+
+ul {
+    list-style: circle; 
 }
 
 td h4 {

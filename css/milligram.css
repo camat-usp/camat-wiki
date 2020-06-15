@@ -515,7 +515,7 @@ ol {
 }
 
 ul {
-    list-style: circle;
+    list-style: circle inside;
 }
 
 .button,
