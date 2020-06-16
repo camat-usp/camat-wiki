@@ -25,6 +25,10 @@ td h4 {
     margin-bottom: 0.5rem;
 }
 
+table {
+    min-width: 100%;
+}
+
 .wrapper .container {
     max-width: 80rem;
 }
