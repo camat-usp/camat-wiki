@@ -6,7 +6,7 @@ install:
 - bundle config --local without coverage docs
 - bundle --jobs 3 --retry 3
 script: bundle exec rake deploy
-
 env:
   global:
     secure: Vtu3jSdZYZeZIidH2KeWaY3r+Iy9+tznASzwpREfpqkZu3PGSY769rSLgtBSFtGwa8fdSNtvRml3EjTrj5jOlAxyQvq58Tts74HgEk1Cue4MEX71iiXjPmGt/mVHKECpWvQZruj2Se/QeUd8TZH/1aSUX9zaHlDDW5o7daWKbUpkQLQ+ekjr0ykRCMvLwpMhLuTv1+rZ7RiVoJoNqzWGGihVhn+Y/1rbVL2fBReJ5JSZNPZTe88s7xNNd2USYbq1BImsZG/e/q6HdfxEy8ftfWwtnAEhdab2HiMaat/NeOs5xXQh5yjYg6jk0dp8GGi4/mjBepd3x9+KqRfGs6guu7sm/Q/pQ0/l09QdUBUVrrnZ2bfS0lE82Vz0uB+qxdloeAJM831aOJJtqaPHp4ymGh6lPuVMJSYAxr8U1zd8PXV065Dv/96BITt8tM/Y276SWix1X1d8xco30SrwiuoCzgW+zzAr5yu9oMkQEaYv+hLFlPiMIZbT8tq4L7ZuxY5IVcGRVDpzzhGQb5iGpyRfFhB4fGOl93px3RhZIo1IRzlAxYfco33kimyv1rclQNEis11aC3KK0tVOEhRusUkdmtYTnB2QRxCuzPovspC+94sKpCeh7h1vTBmqr40ZWN/6gF1HvCxrz0Za9m8IjukeQOP4JaBk/0SEJp8x6X9zmuw=
+
