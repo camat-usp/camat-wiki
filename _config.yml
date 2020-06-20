@@ -50,12 +50,6 @@ asciidoctor:
     idseparator: _
     source-highlighter: coderay
 
-# Build settings
-# theme: minima
-# plugins:
-#   - jekyll-feed
-#   - github-pages
-#   - jekyll-asciidoctor
 plugins:
   - jekyll-minifier
 
