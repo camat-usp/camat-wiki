@@ -1,0 +1,93 @@
+@font-face {
+    font-family: "Quicksand";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/quicksand-6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o18E.ttf)
+        format("truetype");
+}
+
+@font-face {
+    font-family: "Quicksand";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/quicksand-6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv18E.ttf)
+        format("truetype");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Roboto Italic"), local("Roboto-Italic"),
+        url(fonts/roboto-KFOkCnqEu92Fr1Mu52xP.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: local("Roboto Bold Italic"), local("Roboto-BoldItalic"),
+        url(fonts/roboto-KFOjCnqEu92Fr1Mu51TzBhc9.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Roboto"), local("Roboto-Regular"),
+        url(fonts/roboto-KFOmCnqEu92Fr1Me5Q.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local("Roboto Bold"), local("Roboto-Bold"),
+        url(fonts/roboto-KFOlCnqEu92Fr1MmWUlvAw.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Source Code Pro Italic"), local("SourceCodePro-It"),
+        url(fonts/sourcecodepro-HI_QiYsKILxRpg3hIP6sJ7fM7PqlOOvT.ttf)
+            format("truetype");
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: local("Source Code Pro Bold Italic"), local("SourceCodePro-BoldIt"),
+        url(fonts/sourcecodepro-HI_ViYsKILxRpg3hIP6sJ7fM7PqlONNvsecv.ttf)
+            format("truetype");
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Source Code Pro Regular"), local("SourceCodePro-Regular"),
+        url(fonts/sourcecodepro-HI_SiYsKILxRpg3hIP6sJ7fM7PqVOg.ttf)
+            format("truetype");
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local("Source Code Pro Bold"), local("SourceCodePro-Bold"),
+        url(fonts/sourcecodepro-HI_XiYsKILxRpg3hIP6sJ7fM7Pqths7ztA.ttf)
+            format("truetype");
+}
