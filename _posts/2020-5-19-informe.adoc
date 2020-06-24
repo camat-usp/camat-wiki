@@ -58,7 +58,8 @@ ficou de conversar com chefe de departamento responsável para abrir turma extra
 
 Informe a demanda:: https://forms.gle/TVTW81GYvLL49hBd6
 
-Tempo de conclusão de curso e coeficiente de rendimento (CR)
+== Tempo de conclusão de curso e coeficiente de rendimento (CR)
+
 Não haverá acréscimo de tempo ao período ideal de conclusão de curso e este 
 semestre entrará, sim, para a contabilização do coeficiente de rendimento.
 
@@ -73,6 +74,7 @@ Física. Ainda é necessário que o calendário seja aprovado pela pró-reitoria
 após isso acontecer o presidente da CG fará um comunicado aos estudantes
 
 == Pré-requisitos de disciplinas
+
 Os pré-requisitos estão valendo e caso queira cursar disciplina que não tenha 
 feito o pré-requisito, deverá pedir por requerimento e estes serão avaliados de forma flexível. Contudo, se você está matriculado no primeiro semestre em um 
 pré-requisito da matéria do segundo semestre que deseja cursar, ao solicitar a 
