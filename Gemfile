@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 gem 'jekyll', '~> 3.6.3'
 gem 'coderay', '~> 1.1.0'
 gem 'rake-jekyll', '~> 1.1.0'
+gem 'slim', '~> 3.0.7'
+gem 'thread_safe', '~> 0.3.5'
 
 group :jekyll_plugins do
   gem 'jekyll-asciidoc', '~> 2.0.1'

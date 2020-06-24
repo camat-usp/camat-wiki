@@ -35,6 +35,7 @@ repository: camat-usp/camat-wiki
 # Asciidoctor preprocessor settings
 asciidoc: {}
 asciidoctor:
+  template_dir: _templates
   base_dir: :docdir
   safe: unsafe
   attributes:
