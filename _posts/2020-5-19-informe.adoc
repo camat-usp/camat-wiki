@@ -1,11 +1,14 @@
 = Informes da Reunião com o Diretor
 :page-categories: [informe]
 :page-excerpt: Informes sobre a reunião com o diretor Junior Barrera a certo da continuidade do EAD, possibilidade de reoferecimento de disciplinas e projeto de disponibilização de livros digitais como forma de apoio aos estudos.
+:toc: macro
 
 Olá comunidade IMEana,
 
 Seguem os informes da reunião com o diretor Junior Barrera e o presidente da 
 Comissão de Graduação (CG) Carlos Ferreira.
+
+toc::[]
 
 == Padronização do ensino à distância
 
