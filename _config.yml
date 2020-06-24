@@ -42,6 +42,7 @@ asciidoctor:
     icons: ""
     iconsdir: https://camat-usp.github.io/camat-wiki/images/icons
     imagesdir: ./images/
+    hide-uri-scheme: ""
     note-title: NOTA
     tip-title: DICA
     important-title: IMPORTANTE
