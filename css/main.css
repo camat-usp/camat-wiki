@@ -423,3 +423,13 @@ td.icon {
 .container img {
     margin-bottom: 2rem;
 }
+
+.admonitionblock td.icon {
+    text-align: center;
+}
+
+.admonitionblock td.icon img {
+    display: block;
+    width: 80px;
+    margin: 0;
+}
