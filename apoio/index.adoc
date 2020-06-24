@@ -6,7 +6,7 @@ Sabendo que o acesso a materiais de estudos, como livros e provas, permite
 a permanência, disponibilizamos dois suportes:
 
 * link:https://camat-usp.github.io/Referencias-Bibliograficas/[Referências Bibliográficas]
-* link:./banco-prova[Banco de Prova]. 
+* link:https://drive.google.com/drive/folders/0B0qfe1Tj7RTPUGJpSHdUaUo5LXM[Banco de Prova]. 
 
 == Atividades Online Durante a Quarentena
 
@@ -36,7 +36,8 @@ através https://forms.gle/ETVd3qDpj9XjuC3C6[deste formulário].
 
 == Banco de Provas
 
-Encontre provas antigas no link:./apoio/banco-prova[Banco de Provas]. 
+Encontre provas antigas no 
+link:https://drive.google.com/drive/folders/0B0qfe1Tj7RTPUGJpSHdUaUo5LXM[Banco de Provas]. 
  
 Para que seja útil aos estudos, é importante que o Banco 
 de provas esteja devidamente atualizado - conforme o passar dos semestres - 
@@ -57,6 +58,4 @@ MAT0110_2018_P2_Fulana.pdf
 Em casos de não poder/saber escanear documentos ou fechar arquivo `.pdf`, 
 você pode enviar fotos da provas (desde que estejam em ótima resolução) 
 e nós fecharemos o `.pdf`.
-
-
 
