@@ -18,7 +18,7 @@
         {% assign date = post.date | date: "%d/%m/%Y" %}
         <tr role="article">
             <td>
-                <h4><a href=".{{ post.url }}">{{ post.navtitle }}</a></h4>
+                <h4><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h4>
                 <sub>{{ date }}</sub>
             </td>
             <td>{{ post.excerpt }}</td>

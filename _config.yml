@@ -40,6 +40,7 @@ asciidoctor:
   attributes:
     icons: ""
     iconsdir: https://camat-usp.github.io/camat-wiki/images/icons
+    imagesdir: ./images/
     note-title: NOTA
     tip-title: DICA
     important-title: IMPORTANTE

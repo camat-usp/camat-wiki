@@ -3,3 +3,5 @@
 :page-categories: section
 :showtitle:
 
+Textos informativos do que acontece nas rendondezas do CAMat^(TM)^.
+

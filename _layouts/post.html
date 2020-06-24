@@ -3,15 +3,18 @@
 <head>
     {% include head.html %}
 </head>
-
 <body>
     <main class="wrapper">
         {% include header.html %}
         
-        <section id="introducao" class="container">
-            {{ content }}
+        <section class="container">
+            {% assign date = page.date | date: "%d/%m/%Y" %}
+            <div class="title">
+                <h1>{{ page.title }}</h1>
+                <sub>{{ date }}</sub>
+            </div>
 
-            {% include posts.html limit=50 %}
+            {{ content }}
         </section>
         
         {% include footer.html %}

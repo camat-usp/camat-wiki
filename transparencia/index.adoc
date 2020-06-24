@@ -2,3 +2,5 @@
 :page-categories: section
 :showtitle:
 
+Página de transparência financeira e burocrática da gestão do CAMat^(TM)^.
+
