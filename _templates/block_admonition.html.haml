@@ -1,0 +1,10 @@
+%aside{:id => @id, :class => ["admonitionblock", (attr :name), role]}
+  %table
+    %tr
+      %td.icon{:role => "figure"}
+        %img{:src => icon_uri(attr :name), :alt => @caption}
+      %td.content
+        - if title?
+          %div.title 
+            =@title
+        =content

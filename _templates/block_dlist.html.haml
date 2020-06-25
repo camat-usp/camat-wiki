@@ -1,10 +1,12 @@
-dl
+%dl
   - items.each do |terms, dd|
     - [*terms].each do |dt|
-      dt =dt.text
+      %dt 
+        =dt.text
     - unless dd.nil?
-      dd
+      %dd
         - if dd.text?
-          p =dd.text
+          %p 
+            =dd.text
         - if dd.blocks?
           =dd.content

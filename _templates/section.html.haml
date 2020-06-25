@@ -1,0 +1,4 @@
+%section{:"aria-level" => %(#{level})}
+  - slevel = @level == 0 && @special ? 1 : @level
+  - haml_tag "h#{slevel + 1}##{@id}"
+  =content

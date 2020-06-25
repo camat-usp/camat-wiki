@@ -1,0 +1,5 @@
+- if attr? :link
+  %a{:href => (attr :link)}
+    %img{:src => image_uri(attr :target), :alt => (attr :alt), :width => (attr :width), :height => (attr :height)}
+- else
+  %img{:src => image_uri(attr :target), :alt => (attr :alt), :width => (attr :width), :height => (attr :height)}

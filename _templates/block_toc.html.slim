@@ -1,8 +1,0 @@
-/ This template is used only for toc::[] macro; for document and preamble TOC
-/ see document.html, preamble.html and _toc.html.
-- if document.attr? :toc
-  - toc_id = id || ('toc' if document.embedded? || !document.attr?('toc-placement'))
-  nav id=toc_id
-    #toctitle role="heading" =(title || (document.attr 'toc-title'))
-    / Renders block_outline.html.
-    = converter.convert document, 'outline'

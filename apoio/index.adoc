@@ -17,9 +17,9 @@ disciplinas.
 
 Sabendo que estas medidas foram tomadas às pressas e visando auxiliar 
 as(os) estudantes, organizamos 
-link:./atividades-online-durante-a-quarentena[esta página] reunindo informações 
-de diversas disciplinas, facilitando o acesso, visto que estas não estão todas 
-numa plataforma comum.
+link:https://camat-usp.github.io/Atividades-Online-Durante-a-Quarentena/[esta página] 
+reunindo informações de diversas disciplinas, facilitando o acesso, visto que 
+estas não estão todas numa plataforma comum.
 
 == Referências Bibliográficas
 
