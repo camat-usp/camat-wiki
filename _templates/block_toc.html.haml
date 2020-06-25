@@ -1,6 +1,6 @@
 - if document.attr? :toc
   - toc_id = @id || ("toc" if @document.embedded? || !@document.attr?("toc-placement"))
-  %nav{id => toc_id}
-    %div#toctitle{role => "heading"} 
+  %nav{:id => toc_id}
+    %div#toctitle{:role => "heading"} 
       =(title || (@document.attr "toc-title"))
     =converter.convert @document, "outline"

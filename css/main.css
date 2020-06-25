@@ -21,6 +21,10 @@ ul {
     list-style: circle; 
 }
 
+ol, ul {
+    margin-left: 1.5rem;
+}
+
 td h4 {
     margin-bottom: 0.5rem;
 }
