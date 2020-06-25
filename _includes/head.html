@@ -1,12 +1,37 @@
+{% if page.description %}
+    {% assign description = page.description %}
+{% else if page.excerpt %}
+    {% assign description = page.excerpt %}
+{% else %}
+    {% assign description = site.description %}
+{% endif %}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CAMat - {{page.title}}</title>
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<title>CAMat - {{ page.title }}</title>
+<meta name="description" content="{{ description }}">
 <meta name="author" content="Centro Acadêmico da Matemática, Estatística e Computação do Instituto de Matemática e Estatística da Universidade de São Paulo">
 <meta name="copyright" content="GPLv2">
+
 <link rel="stylesheet" href="{{ site.url }}/css/fonts.css">
 <link rel="stylesheet" href="{{ site.url }}/css/coderay.css">
 <link rel="stylesheet" href="{{ site.url }}/css/milligram.css">
 <link rel="stylesheet" href="{{ site.url }}/css/main.css">
-<link rel="icon" type="image/svg" href="{{ site.url }}/images/icons/favicon.svg">
+<link rel="icon" 
+      type="image/svg" 
+      href="{{ site.url }}/images/icons/favicon.svg">
+
+<meta name="twitter:site" value="@{{ site.twitter }}">
+<meta property="twitter:url" content="{{ site.url }}">
+<meta property="twitter:title" content="{{ page.title }}">
+<meta property="twitter:description" content="{{ description }}">
+<meta property="twitter:image" 
+      content="{{ site.url }}/images/icons/favicon.svg">
+<meta property="twitter:card" content="summary_large_image">
+
+<meta property="og:title" content="{{ page.title }}"/>
+<meta property="og:image" content="{{ site.url }}/images/icons/favicon.svg"/>
+<meta property="og:image:type" content="image/xml+svg"/>
+<meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+<meta property="og:description" content="{{ description }}"/>
+<meta property="og:locale" content="pt_BR"/>
 

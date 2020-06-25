@@ -1,7 +1,16 @@
 <!doctype html>
 <html class="no-js" lang="en" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
 <head>
+    {% assign date = page.date | date: "%Y-%m-%d" %}
     {% include head.html %}
+    <meta property="og:type" content="article"/>
+    <meta property="article:published_time" content="{{ date }}">
+    {% for category in page.categories %}
+    <meta property="article:tag" content="{{ category }}"/>
+    {% endfor %}
+    {% if page.author %}
+    <meta property="article:author" content="{{ page.author }}"/>
+    {% endif %}
 </head>
 <body>
     <main class="wrapper">
