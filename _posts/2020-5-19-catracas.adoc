@@ -1,7 +1,8 @@
 = Catracas no IME USP
 :page-excerpt: Na última reunião do CTA (Conselho Técnico-Administrativo) do IME, o diretor Junior Barrera levantou a proposta de instalação de catracas nos blocos A e B, com a intenção de um controle maior no acesso ao Instituto num eventual retorno parcial às atividades presenciais.
+:page_image: catracas-imeusp.png
 
-image::/images/catracas-imeusp.png[Cratacas no IME USP]
+image::catracas-imeusp.png[Cratacas no IME USP]
 
 Olá IMEanes,
 

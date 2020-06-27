@@ -39,9 +39,9 @@ asciidoctor:
   base_dir: :docdir
   safe: unsafe
   attributes:
+    imagesdir: https://camat-usp.github.io/camat-wiki/images
     icons: ""
-    iconsdir: https://camat-usp.github.io/camat-wiki/images/icons
-    imagesdir: ./images/
+    iconsdir: '{imagesdir}/icons'
     hide-uri-scheme: ""
     note-title: NOTA
     tip-title: DICA
