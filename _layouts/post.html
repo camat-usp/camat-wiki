@@ -20,7 +20,16 @@
             {% assign date = page.date | date: "%d/%m/%Y" %}
             <div class="title" role="heading" aria-level="1">
                 <h1>{{ page.title }}</h1>
-                <sub>{{ date }}</sub>
+                <span class="article-info" role="list">
+                    <sub role="listitem">{{ date }}</sub>
+                    {% if page.categories %}
+                        {% for category in page.categories %}
+                        <span class="label" role="listitem">
+                            {{ category }}
+                        </span>
+                        {% endfor %}
+                    {% endif %}
+                </span>
             </div>
 
             {{ content }}

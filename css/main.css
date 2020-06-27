@@ -35,7 +35,7 @@ table {
 
 ::selection {
     background: var(--highlight-color);
-    color: var(--background-color);
+    color: white;
 }
 
 .wrapper .container {
@@ -438,4 +438,24 @@ td.icon {
     display: block;
     width: 80px;
     margin: 0;
+}
+
+.article-info {
+    display: flex;
+}
+
+.label {
+    background: var(--highlight-color);
+    color: white;
+    font-size: 12px;
+    border-radius: 2em;
+    padding: 0 7px;
+    line-height: 21px;
+    margin-left: 7px;
+    font-style: italic;
+}
+
+.label::selection {
+    background: white;
+    color: var(--highlight-color);
 }
