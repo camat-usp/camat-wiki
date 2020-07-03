@@ -20,7 +20,7 @@
             {{ content }}
 
             <h3 id="navegação">
-                <a class="anchor" href="#navegação"></a>
+                <a class="anchor" href="#navegação" aria-hidden="true"></a>
                 Navegação
             </h3>
             <ul>
@@ -37,7 +37,10 @@
         </section>
            
         <section id="informes" class="container">
-            <h2><a class="anchor" href="#informes"></a>Informes</h2>
+            <h2>
+                <a class="anchor" href="#informes" aria-hidden="true"></a>
+                Informes
+            </h2>
             {% include posts.html category="informe" limit=10 %}
         </section>
             
