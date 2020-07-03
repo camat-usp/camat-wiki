@@ -459,3 +459,27 @@ td.icon {
     background: white;
     color: var(--highlight-color);
 }
+
+a.anchor {
+    position: absolute;
+    width: 1.5ex;
+    margin-left: -1.5ex;
+    display: block;
+    text-decoration: none !important;
+    visibility: hidden;
+    text-align: center;
+    font-weight: normal;
+}
+
+h1:hover > a.anchor,
+h2:hover > a.anchor,
+h3:hover > a.anchor,
+h4:hover > a.anchor,
+h5:hover > a.anchor,
+h6:hover > a.anchor {
+    visibility: visible;
+}
+
+a.anchor::before {
+    content: "\00A7";
+}

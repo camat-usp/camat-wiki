@@ -19,7 +19,10 @@
         <section id="oque" class="container">
             {{ content }}
 
-            <h3>Navegação</h3>
+            <h3 id="navegação">
+                <a class="anchor" href="#navegação"></a>
+                Navegação
+            </h3>
             <ul>
                 {% for page in pages %}
                 {% if page.title %}
@@ -34,7 +37,7 @@
         </section>
            
         <section id="informes" class="container">
-            <h2>Informes</h2>
+            <h2><a class="anchor" href="#informes"></a>Informes</h2>
             {% include posts.html category="informe" limit=10 %}
         </section>
             

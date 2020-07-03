@@ -1,4 +1,4 @@
 %section{:"aria-level" => %(#{level}), :id => @id}
   - slevel = @level == 0 && @special ? 1 : @level
-  - haml_tag "h#{slevel + 1}#", captioned_title
+  - haml_tag "h#{slevel + 1}#", %(<a class="anchor" href="##{@id}"></a>#{captioned_title})
   =content
