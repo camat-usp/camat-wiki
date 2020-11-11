@@ -5,7 +5,7 @@ O CAMat^(TM)^ é o Centro Acadêmico da Matemática, Estatística e Computação
 https://ime.usp.br[Instituto de Matemática e Estatística da Universidade de São Paulo (IME USP)].
 
 A wiki camatiana vem a ser o multi-canal do CAMat, um espaço de transparência 
--- administrativa e burocrática -- e comunicação entre a gestão do CAMat e a 
+-- administrativa e financeira -- e comunicação entre a gestão do CAMat e a 
 galera do IME.
 
 == Detalhes Técnicos
@@ -14,7 +14,7 @@ O site é baseado no gerador de sites estáticos https://jekyllrb.com/[Jekyll] e
 hospedado no https://pages.github.com/[GitHub Pages] com Integração de Código 
 provida via https://travis-ci.org/[Travis CI].
 
-O site utiliza um tema Jekyll próprio, baseado em uma verção modificada do 
+O site utiliza um tema Jekyll próprio, baseado em uma versão modificada do 
 framework de CSS https://milligram.io/[Milligram]. Ainda, o site faz uso do 
 plug-in https://github.com/asciidoctor/jekyll-asciidoc[`jekyll-asciidoc`].
 
@@ -69,7 +69,7 @@ https://github.com/GarkGarcia/camat-wiki/blob/master/css/fonts/extract.py[um scr
 |OFL-1.1
 |===
 
-=== Icones
+=== Ícones
 
 Todos os ícones usados no site são providos pelo projeto 
 https://github.com/FortAwesome/Font-Awesome[Font Awesome], licenciados via 
