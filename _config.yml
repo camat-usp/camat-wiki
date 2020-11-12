@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: CAMat
-email: camat@ime.usp
+email: camat@ime.usp.br
 description: >- # this means to ignore newlines until "baseurl:"
     Wiki do Centro Acadêmico da Matemática, Estatística e Computação do 
     Instituto de Matemática e Estatística da Universidade de São Paulo 
     (IME USP).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://camat-usp.github.io/camat-wiki # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.ime.usp.br/~camat/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter: CAMatRadical
 github:  camat-usp
 facebook: CAMatUSP
