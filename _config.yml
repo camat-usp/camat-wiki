@@ -64,7 +64,6 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude: [vendor]
 
 exclude:
   - .sass-cache/
@@ -73,6 +72,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules/
+  - vendor/
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
