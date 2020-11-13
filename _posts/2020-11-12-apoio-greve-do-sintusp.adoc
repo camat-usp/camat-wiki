@@ -2,7 +2,8 @@
 :page-excerpt: Com início em 9 de novembro, es trabalhadores 
 da USP declaram Greve Sanitária por condições dignas de trabalhadores 
 e por um Plano USP que seja construído em diálogo com os trabalhadores.
-:page_image:greve-sintusp-tt.png
+:page_image: greve-sintusp-tt.png
+
 image::greve-sintusp-tt.png[Apoio à greve do Sintusp!]
 
 Com início em 9 de novembro, es trabalhadores da USP declaram Greve Sanitária, conforme aprovado em Assembleia Geral convocada pelo Sintusp. O posicionamento da categoria responde a decisão da Reitoria divulgada na sétima atualização do Plano USP, que prevê o retorno compulsório às atividades presenciais para a maioria dos servidores universitários. A categoria defende que não haja retorno presencial das atividades não essenciais e que seja garantido condições dignas de trabalho nesse período.
