@@ -1,7 +1,6 @@
 = Informes da Congregação (22/10)
 :page-categories: [informe]
-:page-excerpt: Repasses do representante discente da Congregação,
-acerca da reunião de 22/10.
+:page-excerpt: Repasses do representante discente da Congregação, acerca da reunião de 22/10.
 :toc: macro
 
 toc::[]
