@@ -1,0 +1,22 @@
+= Com aumento de casos de coronavírus em SP, USP sedia evento de luxo 
+:revdate: 2020-11-20
+:page-excerpt: Com o aumento do número de casos de coronavírus na cidade de SP, USP sediará evento de luxo entre 19 a 24 de novembro.
+:page_image: evento-spbs-usp-tt.png
+
+image::evento-spbs-usp-tt.png[Com aumento de casos de coronavírus em SP, USP sedia evento de luxo]
+
+Em meio à pandemia do novo coronavírus, com aumento do número de casos em São Paulo, a USP sediará entre os dias 19 a 24 de novembro o evento privado São Paulo Boat Show (SPBS) 2020 na Raia Olímpica. Os organizadores esperam que cerca de 30 mil pessoas passem pelo evento.
+
+Em matéria publicada no Jornal USP (16/11), a Universidade justifica a realização do evento com base no lucro aos cofres universitários - seriam R$ 400 mil reais considerando aluguel (R$ 90 mil), melhorias na estrutura da raia, a doação de um barco de 18 pés (R$ 70 mil) e 50% da renda do estacionamento do evento. O dinheiro arrecadado seria destinado a manutenção do Centro de Práticas Esportivas (CEPE). Para contraste, de acordo com a revista Veja (19/10), o SPBS 2020 espera que sejam movimentados R$ 260 milhões reais em negócios, um crescimento de 20% em relação a 2019. Assim posto, parece irrisório o valor a ser arrecadado pela USP para sediar o evento privado.
+
+Vale recordar que em frente à Raia Olímpica fica localizado o Crusp - Conjunto Residencial da USP -, que conta com cerca de 350 moradores alocados durante este período de pandemia. As condições da moradia estudantil são precárias, as cozinhas e lavanderias seguem sem reformas - a maioria inoperável -, e a distribuição de marmitas pela Universidade não tem se mostrado totalmente eficiente. 
+
+Em matéria do The Intercept (09/11), mostra-se dados da pesquisa sobre (in)segurança alimentar des estudantes do CRUSP realizada por Tânia Araujo, doutora em saúde pública e ex-moradora do Crusp, e Daniel Vasconcelos, doutorando em Geografia na universidade e ainda morador do Crusp. Na pesquisa, dos 84 estudantes que responderam, 50% afirmou realizar duas refeições diárias e 25% afirmou realizar apenas uma refeição diária. Frente a estes dados, fica clara a situação de vulnerabilidade de parte des estudantes do CRUSP. Contudo, a Superintendência de Assistência Social (SAS) se recusou a receber os pesquisadores para debater os resultados.
+
+De um lado um evento de luxo, do outro estudantes em situação vulnerável. O contraste escancara ainda mais o descaso da Universidade que coloca como prioridade o lucro e a imagem pública ao invés de zelar pela saúde de seus estudantes.
+
+Matéria Jornal USP (16/11): https://jornal.usp.br/institucional/raia-olimpica-vai-sediar-feira-na-area-nautica-de-19-a-24-de-novembro/
+
+Matéria da Veja (19/10) https://veja.abril.com.br/blog/radar-economico/sao-paulo-boat-show-espera-movimentar-r-260-milhoes-com-exposicao-na-agua/
+
+Matéria do The Intercept (09/11) https://theintercept.com/2020/11/09/pesquisa-inseguranca-alimentar-fome-crusp-usp/ 

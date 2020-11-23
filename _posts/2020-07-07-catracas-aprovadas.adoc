@@ -1,0 +1,26 @@
+= Aprovada a instalação de catracas no IME-USP
+:page-categories: [informe]
+:revdate: 2020-07-07
+:page-excerpt: Por 7 a 1 votos favoráveis, o Conselho Técnico Administrativo do IME-USP aprova a instalação de catracas no instituto.
+:toc: macro
+
+toc::[]
+
+Dando início à discussão referente às catracas, o diretor apresentou slides, que começavam com a mensagem dele ao CAMat, e em seguida mostrava gráficos de evolução da pandemia aqui e nos EUA, com o intuito de mostrar que acredita que a pandemia ainda vai longe, além de apontar que o governo estadual está lidando mal com a situação. Depois comentou sobre as vacinas, que provavelmente surgirão no ano que vem, porém com eficiências variadas, que ajudarão, na visão dele, o ano ser um ano com altos e baixos, reaberturas e fechamentos. Devido a isso, o ano teria risco contínuo, e um investimento para a pandemia não seria só para os próximos poucos meses.
+
+Então, ele abordou os motivos que ele elencou como principais motivadores acadêmicos dele para um princípio de reabertura controlada. O primeiro, seria aula semi-presencial para os ingressantes, que ele vê como sendo muito afetados pelo modelo virtual do ensino e acaba levando a algumas desistências. O segundo, a realização de provas, que tem sido um dos maiores problemas durante o período virtual. Ainda ele elenca recepção dos bixos (2021) e outras atividades que surjam, porém não acredito que essas ocorreriam tão levianamente.
+
+O diretor, assim, detalha algumas medidas que devem ser tomadas para tal: seguir recomendações das autoridades de saúde pública (da maneira mais rígida possível), criar uma equipe para coordenar as atividades presenciais, que criaria um calendário e garantiria o planejamento detalhado de tudo a ocorrer, e controlar a entrada apenas das pessoas autorizadas, que seriam as com atividades no dia.
+
+Em seguida ele apresentou um projeto de infraestrutura física do bloco B, contando com catracas, controle de temperatura e álcool em gel disponível. No projeto mostrado, a lanchonete (que está com contrato suspenso até setembro) ficaria do lado de fora da catraca e o controle de temperatura seria realizado após passar a catraca (durante a discussão foi apontado que, se esse fosse ocorrer, deveria ser antes da mesma, mas foi apontado diversos motivos, entre eles que o responsável pela portaria não poderia impedir a entrada, então não chegou a ser tomada uma decisão definitiva sequer sobre a presença dos mesmos, ainda mais pelo preço dos termômetros automáticos pesquisados).
+
+A seguir, ele mostrou as catracas, divisórias, e portão acessível que foram orçados, totalizando R$27713,85. A catraca é do tipo torniquete (semelhante às do IO, do IF, e em geral o tipo mais comum), pois estas tem custo unitário estimado em R$8068,78, enquanto a catraca de portão flap (utilizadas na FMUSP e semelhantes às da linha 4-amarela do metrô) tem custo unitário aproximado de R$58000. Em seguida, foram mostradas algumas diretrizes da USP (aparentemente o documento que as origina será enviado aos alunos logo, resultado do mesmo grupo de trabalho que sugeriu aquele calendário de início de semestre que foi aprovado há algumas semanas), incluindo compra centralizada pela reitoria de sabonete líquido e álcool em gel (dos quais serão disponibilizados aproximadamente 3,3kL e 10kL, respectivamente, para o IME), compra de estrutura acrílica e máscara face shield para as guaritas e outros pontos e atendimento, além de disponibilizar máscaras de emergência para os funcionários, instalação de dispenseres de álcool em gel pelo Instituto e de sabonete líquido no banheiro, entre vários outros. Para finalizar, ele reafirmou que as catracas, se instaladas, seriam retiradas assim que a pandemia acabasse.
+
+Após essa apresentação, abriu-se para discussão. O Professor Marcelo Queiróz, do MAC, apontou que talvez não fossem necessárias as catracas caso o planejamento fosse bem feito. Se fosse planejado de modo a tornar o Instituto pouco atrativo, com apenas as aulas e provas acontecendo e todo o resto indisponível, a tendência, imaginava ele, era de pouquíssimas pessoas indo lá quando não fosse necessário.
+
+O Professor Fábio Tal, do MAP, disse que, enquanto contrário à instalação de catracas no IME em situação normal, ele acredita que algo que realizasse o contact tracing (registro da presença da pessoa para poder informá-la a possibilidade de ter se infectado) seria importante. Foi ainda questionado se as catracas eram parte das diretrizes da USP, e quanto elas representariam no orçamento (aprox 0.9%, dado o preço total já mencionado acima).
+
+== Votação
+
+Após uma extensa discussão e 2 horas e meia de reunião, por 7 votos a 1, foi aprovada a instalação de catracas no Bloco B do IME, a serem retiradas após o final da pandemia. Na meia hora restante, foi discutido bastante sobre os termômetros automáticos, e ainda sobre como seria esse grupo que coordenará e planejará as atividades presenciais, sendo deixada essa discussão para é aprofundar mais na reunião seguinte, com um comitê mais amplo além do CTA, possivelmente já na próxima semana.
+
