@@ -1,8 +1,6 @@
 = Apoio à greve do Sintusp!
 :revdate: 2020-11-13
-:page-excerpt: Com início em 9 de novembro, es trabalhadores 
-da USP declaram Greve Sanitária por condições dignas de trabalhadores 
-e por um Plano USP que seja construído em diálogo com os trabalhadores.
+:page-excerpt: Com início em 9 de novembro, es trabalhadores da USP declaram Greve Sanitária por condições dignas de trabalhadores e por um Plano USP que seja construído em diálogo com os trabalhadores.
 :page_image: greve-sintusp-tt.png
 
 image::greve-sintusp-tt.png[Apoio à greve do Sintusp!]
