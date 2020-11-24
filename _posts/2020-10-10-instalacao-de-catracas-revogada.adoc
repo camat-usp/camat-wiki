@@ -1,7 +1,7 @@
 = Instalação de catracas no Bloco B revogada
 :page-categories: [informe]
 :revdate: 2020-10-10
-:page-excerpt: Reunião de 08/10 do CTA revoga a instalação de catracas no bloco B do IME-USP
+:page-excerpt: Reunião de 08/10 do CTA revoga a instalação de catracas no bloco B do IME-USP.
 :toc: macro
 
 toc::[]
