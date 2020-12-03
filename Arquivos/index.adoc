@@ -2,4 +2,4 @@
 :page-categories: section
 :showtitle:
 
-include::Relatório_-_Cola_em_prova.pdf[Relatório - Cola em prova]
+include::Relatório - Cola em prova.pdf[Relatório - Cola em prova]
