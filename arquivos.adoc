@@ -1,3 +1,0 @@
-= Arquivos
-:page-categories: section
-:showtitle:
