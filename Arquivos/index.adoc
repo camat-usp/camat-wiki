@@ -3,3 +3,8 @@
 :showtitle:
 
 link:Relatorio_Cola_em_prova.pdf[Relatório - Cola em prova]
+
+link:Relatorio_Grad_Cancelamento_do_Semestre.pdf[Relatório Graduação - Cancelamento do Semestre]
+link:Errata_Relatorio_Grad_Cancelamento_do_Semestre.pdf[Errata Relatório Graduação]
+
+link:Relatorio_PosGrad_Reorganizacao_do_ Semestre.pdf[Relatório Pós-Graduação - Reorganização do Semestre]
